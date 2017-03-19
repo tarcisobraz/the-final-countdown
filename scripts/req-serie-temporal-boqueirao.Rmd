@@ -1,0 +1,74 @@
+---
+title: "The Final Countdown - Regressão de Série Temporal - Volume do Açude de Boqueirão"
+output: html_notebook
+---
+
+```{r data_etl}
+
+library(dplyr)
+library(ggplot2)
+
+volumes.data <- read.csv("boqueirao_final.csv")
+
+volumes.por.mes <- volumes.data %>%
+  group_by(ano, mes) %>%
+  summarise(volume = min(volume),
+            volume.percentual = min(volume.percentual)) %>%
+  filter(ano >= 2012) %>%
+  ungroup() %>%
+  filter(row_number() != n()) %>%
+  group_by(ano,mes)
+  
+  
+```
+
+Analisando o dado:
+
+```{r}
+
+data<-ts(volumes.por.mes$volume.percentual,start = c(2012,1), end = c(2017,2), frequency = 12)
+
+plot(data, xlab="Years", ylab = "Volume do Açude")
+
+```
+```{r stationarity_analysis}
+
+plot(diff(data),ylab="Diferenciação do Volume do Açude")
+
+plot(diff(log10(data)),ylab="Diferenciação do Volume do Açude")
+
+```
+
+```{r ACF_PACF}
+
+par(mfrow = c(1,2))
+acf(ts(diff(log10(data))),main="ACF Tractor Sales")
+pacf(ts(diff(log10(data))),main="PACF Tractor Sales")
+
+
+```
+```{r arima_fit}
+library(forecast)
+ARIMAfit <- auto.arima(log10(data), approximation=FALSE,trace=FALSE)
+summary(ARIMAfit)
+```
+
+```{r}
+
+pred <- predict(ARIMAfit, n.ahead = 12)
+pred.df <- data.frame(Y=as.matrix(10^(pred$pred)),date=as.Date(as.yearmon(time(pred$pred))))
+print(pred.df)
+plot(data,type="l",xlim=c(2016,2018),ylim=c(1,15),xlab = "Tempo",ylab = "Volume do Açude")
+lines(10^(pred$pred),col="blue")
+lines(10^(pred$pred+2*pred$se),col="orange")
+lines(10^(pred$pred-2*pred$se),col="orange")
+
+```
+
+```{r}
+
+write.csv(volumes.por.mes, "historico-boqueirao.csv", row.names = F)
+write.csv(pred.df, "predicao-boqueirao.csv", row.names = F)
+
+```
+
