@@ -2,7 +2,7 @@ library(jsonlite)
 library(dplyr)
 library(lubridate)
 # Give the input file name to the function.5
-reservatorios.info <- fromJSON("reservatorios_info.json")
+reservatorios.info <- fromJSON("../data/reservatorios_info.json")
 
 reservatorios.info <- reservatorios.info %>%
   mutate(area = as.numeric(area),
@@ -12,3 +12,5 @@ reservatorios.info <- reservatorios.info %>%
          perimetro = as.numeric(perimetro),
          volume = as.numeric(volume),
          volume_percentual = as.numeric(volume_percentual))
+
+write.csv(reservatorios.info,"../data/reservatorios_info.csv", row.names = F)
