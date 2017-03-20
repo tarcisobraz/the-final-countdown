@@ -8,7 +8,7 @@ output: html_notebook
 library(dplyr)
 library(ggplot2)
 
-volumes.data <- read.csv("../data/boqueirao_final.csv")
+volumes.data <- read.csv("..data/boqueirao_final.csv")
 
 volumes.por.mes <- volumes.data %>%
   group_by(ano, mes) %>%
@@ -67,8 +67,8 @@ lines(10^(pred$pred-2*pred$se),col="orange")
 
 ```{r}
 
-write.csv(volumes.por.mes, "historico-boqueirao.csv", row.names = F)
-write.csv(pred.df, "predicao-boqueirao.csv", row.names = F)
+write.csv(volumes.por.mes, "../data/historico-boqueirao.csv", row.names = F)
+write.csv(pred.df, "../data/predicao-boqueirao.csv", row.names = F)
 
 ```
 
