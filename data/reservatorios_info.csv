@@ -1,0 +1,453 @@
+"area","bacia","capacidade","data_informacao","estado","fonte","hectares","id","municipio","nome","nome_sem_acento","perimetro","reservat","reservat_sem_acento","tipo","uf","volume","volume_percentual"
+551512.44,"Real",4.3,NA,"SERGIPE",NA,55.15,751,"Tobias Barreto","Jabiberi","Jabiberi",4334.07,"Barragem Jabiberi","Barragem Jabiberi","reservatorio","SE",NA,NA
+135293504.18,"Paraguaçu",4836.82,2016-12-04,"BAHIA","ANA",13529.35,795,"Cabaceiras do Paraguaçu / Santo Estêvão / Antônio Cardoso / Conceição da Feira","Pedra do Cavalo","Pedra do Cavalo",493617.59,"UHE Pedra do Cavalo","UHE Pedra do Cavalo","reservatorio","BA",2898.93,59.9
+482099.64,"Pontal",1.37,2015-01-05,"PERNAMBUCO","ANA",48.21,1041,"Afrânio","Barra de Melancia","Barra de Melancia",7342.93,"Açude Barra da Melancia","Acude Barra da Melancia","reservatorio","PE",0,0
+13288331.66,"Poti",55,NA,"PIAUÍ",NA,1328.83,1055,"Valença do Piauí / Aroazes","Mesa de Pedra","Mesa de Pedra",53085.72,"Açude Mesa de Pedra","Acude Mesa de Pedra","reservatorio","PI",NA,NA
+881810.32,"Capibaribe",1.6,NA,"PERNAMBUCO",NA,88.18,1066,"Brejo da Madre de Deus","Machado","Machado",10132.04,"Açude Machado","Acude Machado","reservatorio","PE",NA,NA
+670508.29,"Mundau",2.59,2015-08-12,"PERNAMBUCO","ANA",67.05,1092,"Garanhuns / Capoeiras","Cajarana","Cajarana",6716.29,"Barragem de Cajarana","Barragem de Cajarana","reservatorio","PE",0.1,3.9
+413934.64,"Pajeu",3.19,2014-06-09,"PERNAMBUCO","ANA",41.39,1176,"Floresta","Quebra Unha","Quebra Unha",6736.9,"Açude Quebra Unha (Juá)","Acude Quebra Unha (Jua)","reservatorio","PE",0.18,5.6
+1674806.97,"Pajeu",36,2016-11-16,"PERNAMBUCO","ANA",167.48,1182,"Serra Talhada","Saco I","Saco I",6990.54,"Açude do Saco I","Acude do Saco I","reservatorio","PE",0,0
+344321.93,"Piancó",1.26,2017-03-14,"PARAÍBA","AESA",34.43,1199,"Boa Ventura","Riacho Verde","Riacho Verde",8457.66,"Açude Riacho Verde","Acude Riacho Verde","reservatorio","PB",0.05,3.6
+578448.06,"Brígida",5.72,2016-04-29,"PERNAMBUCO","ANA",57.84,1927,"Parnamirim","Parnamirim","Parnamirim",7510.11,"Açude Parnamirim","Acude Parnamirim","reservatorio","PE",0,0
+420175.67,"TerraNova",16.45,2016-07-20,"PERNAMBUCO","ANA",42.02,1931,"Salgueiro","Boa Vista (Salgueiro)","Boa Vista (Salgueiro)",5690.69,"Açude Salgueiro","Acude Salgueiro","reservatorio","PE",0.53,3.2
+5928537.21,"Apodi/Mossoró",10,2016-06-14,"RIO GRANDE DO NORTE","ANA",592.85,2067,"Caraúbas","Apanha Peixe","Apanha Peixe",21068.23,"Açude do Apanha Peixe","Acude do Apanha Peixe","reservatorio","RN",0,0
+1343402.23,"Apodi/Mossoró",7,2017-03-07,"RIO GRANDE DO NORTE","GOVERNO RN",134.34,2217,"Rafael Fernandes / Riacho de Santana","Santana","Santana",9232.81,"Açude Santana (Gangorra)","Acude Santana (Gangorra)","reservatorio","RN",0,0
+513404.51,"Canindé",348,NA,"PIAUÍ",NA,51.34,2766,"Patos do Piauí","Poço do Marruá","Poco do Marrua",3557.68,"Açude Poço do Marruá","Acude Poco do Marrua","reservatorio","PI",NA,NA
+825167.37,"Apodi/Mossoró",4.72,2016-04-06,"RIO GRANDE DO NORTE","ANA",82.52,12001,"Pau dos Ferros","25 de Março","25 de Marco",6691.11,"Açude Vinte e Cinco de Março","Acude Vinte e Cinco de Marco","reservatorio","RN",0,0
+2341956.69,"Terra Nova",14.35,2017-02-24,"PERNAMBUCO","ANA",234.2,12002,"Parnamirim / Terra Nova / Serrita","Abóboras","Aboboras",28892.86,"Açude Abóboras","Acude Aboboras","reservatorio","PE",0,0
+2041647.93,"Metropolitana",29.59,2017-03-15,"CEARÁ","ANA",204.16,12003,"Redenção","Acarape do Meio","Acarape do Meio",18379.32,"Açude Acarape do Meio (Eugênio Gudin)","Acude Acarape do Meio (Eugenio Gudin)","reservatorio","CE",5.99,20.2
+0,"Acaraú",52,2017-03-17,"CEARÁ","ANA",643.62,12004,"Massapê","Acaraú-Mirim","Acarau-Mirim",34179.64,"Açude Acaraú-Mirim","Acude Acarau-Mirim","reservatorio","CE",40.26,77.4
+0,"Médio Paraíba",253,2017-03-17,"PARAÍBA","AESA",1614.36,12005,"Itatuba / Natuba","Acauã","Acaua",93259.4,"Açude Argemiro de Figueiredo (Acauã)","Acude Argemiro de Figueiredo (Acaua)","reservatorio","PB",14.8,5.8
+572395.35,"Médio Jaguaribe",5.25,2017-03-16,"CEARÁ","ANA",57.24,12006,"Pereiro","Adauto Bezerra","Adauto Bezerra",6764.99,"Açude Pereiro (Adauto Bezerra)","Acude Pereiro (Adauto Bezerra)","reservatorio","CE",0,0
+2170040.18,"Vaza Barris",13.43,2017-01-24,"BAHIA","ANA",217,12007,"Adustina","Adustina","Adustina",13853.41,"Açude Adustina","Acude Adustina","reservatorio","BA",0.48,3.6
+1148613.68,"Rio Pardo",6.46,2017-03-02,"BAHIA","ANA",114.86,12008,"Barra do Choça","Água Fria II","Agua Fria II",13623.63,"Barragem Agua Fria","Barragem Agua Fria","reservatorio","BA",3.72,57.6
+0,"Itapicuru",2.28,2017-03-02,"BAHIA","ANA",23.45,12009,"Antônio Gonçalves / Pindobaçu","Aipim","Aipim",2330.45,"Açude Aipim","Acude Aipim","reservatorio","BA",1.22,53.5
+0,"Vaza Barris",1.06,2016-12-30,"SERGIPE","ANA",1.05,12010,"Frei Paulo","Alagadiço","Alagadico",837.17,"Açude Alagadiço","Acude Alagadico","reservatorio","SE",0,0
+279645.22,"Piancó",1.83,2017-03-03,"PARAÍBA","AESA",27.96,12011,"Imaculada","Albino","Albino",3026.13,"Açude Albino","Acude Albino","reservatorio","PB",0.08,4.5
+0,"Canindé",7.24,2017-02-20,"PIAUÍ","ANA",79.71,12012,"São Raimundo Nonato","Aldeia","Aldeia",9325.94,"Açude Aldeia (Tanque)","Acude Aldeia (Tanque)","reservatorio","PI",2,27.6
+1017884.91,"Piranhas/Assu",7,2017-03-07,"RIO GRANDE DO NORTE","ANA",101.79,12013,"Santana do Matos","Açude Alecrim (Santana dos Matos)","Acude Alecrim (Santana dos Matos)",10143.22,"Açude Alecrim (Santana dos Matos)","Acude Alecrim (Santana dos Matos)","reservatorio","RN",0.78,11.1
+0,"Curimataú",1.03,2017-03-13,"PARAÍBA","AESA",37.45,12014,"Algodão de Jandaíra","Algodão","Algodao",5165.64,"Açude Algodão","Acude Algodao","reservatorio","PB",0,0
+432109.72,"São Francisco",1.86,2016-12-30,"SERGIPE","ANA",43.21,12015,"Nossa Senhora da Glória","Algodoeiro","Algodoeiro",9228.74,"Açude Algodoeiros","Acude Algodoeiros","reservatorio","SE",1.68,90.4
+11680317.59,"Brígida",58.48,2016-11-16,"PERNAMBUCO","ANA",1168.03,12016,"Ouricuri","Algodões","Algodoes",60196.56,"Açude Algodões","Acude Algodoes","reservatorio","PE",0.74,1.4
+0,"Gurgueia",247,2017-02-20,"PIAUÍ","ANA",575.21,12018,"Curimatá","Algodões II","Algodoes II",37227.07,"Açude Algodões II","Acude Algodoes II","reservatorio","PI",35,14.2
+0,"Metropolitana",11.01,2017-03-16,"CEARÁ","ANA",204.11,12019,"Maranguape","Amanary","Amanary",14492.82,"Açude Amanary (ex Pocinhos)","Acude Amanary (ex Pocinhos)","reservatorio","CE",0.52,4.7
+19653414.94,"Rio de Contas",255.63,2017-03-06,"BAHIA","ANA",1965.34,12020,"Anagé / Caraíbas / Belo Campo","Anagé","Anage",142404.35,"Açude Anagé (Deputado Elquison Soares)","Acude Anage (Deputado Elquison Soares)","reservatorio","BA",187.79,73.5
+1437099.18,"Itapicuru",13.68,2017-03-06,"BAHIA","ANA",143.71,12022,"Andorinha","Andorinha II","Andorinha II",12269.81,"Açude Andorinha II","Acude Andorinha II","reservatorio","BA",8.84,64.6
+0,"Coreaú",56.05,2017-03-18,"CEARÁ","ANA",872.38,12023,"Frecheirinha / Coreaú","Angicos","Angicos",40951.75,"Açude Angicos","Acude Angicos","reservatorio","CE",19.46,34.7
+13359877.39,"Paraguaçu",108.69,2016-11-28,"BAHIA","ANA",1335.99,12024,"Mucugê / Ibicoara","Apertado","Apertado",68617.97,"Açude Apertado","Acude Apertado","reservatorio","BA",25.85,23.8
+10588606.71,"Itapicuru",65.84,2017-03-06,"BAHIA","ANA",1058.86,12026,"Araci","Araci","Araci",59853.03,"Açude Araci (ex Poço Grande)","Acude Araci (ex Poco Grande)","reservatorio","BA",26.47,40.2
+16781171.41,"Metropolitana",170.7,2017-03-17,"CEARÁ","ANA",1678.12,12027,"Aracoiaba / Redenção","Araçoiaba","Aracoiaba",72834.03,"Açude Araçoiaba","Acude Aracoiaba","reservatorio","CE",11.42,6.7
+1009356.88,"São Francisco",4.13,2017-03-08,"ALAGOAS","ANA",100.94,12028,"Arapiraca","Arapiraca","Arapiraca",8037.63,"Açude Arapiraca","Acude Arapiraca","reservatorio","AL",3.31,80.2
+0,"Apodi/Mossoró",4.3,2016-04-05,"RIO GRANDE DO NORTE","ANA",5.53,12029,"Luís Gomes","Arapua","Arapua",1885,"Açude Arapua","Acude Arapua","reservatorio","RN",0,0
+0,"Acaraú",891,2017-03-17,"CEARÁ","ANA",6810.87,12030,"Varjota / Pires Ferreira / Hidrolândia / Santa Quitéria","Araras","Araras",351654.57,"PCH Açude Araras (Paulo Sarasate)","PCH Acude Araras (Paulo Sarasate)","reservatorio","CE",70.55,7.9
+502035.12,"Brígida",3.7,2014-01-28,"PERNAMBUCO","ANA",50.2,12031,"Araripina","Araripina (Baixio)","Araripina (Baixio)",5209.73,"Açude Araripina (ex Baixio)","Acude Araripina (ex Baixio)","reservatorio","PE",0,0
+2299516.09,"Ipanema",16.8,2017-03-15,"PERNAMBUCO","ANA",229.95,12032,"Pedra","Arcoverde","Arcoverde",17241.04,"Açude Arcoverde","Acude Arcoverde","reservatorio","PE",0,0
+4761792.02,"Alto Jaguaribe",197.06,2017-03-17,"CEARÁ","ANA",476.18,12033,"Arneiroz","Arneiroz II","Arneiroz II",38216.81,"Açude Arneiroz II","Acude Arneiroz II","reservatorio","CE",32.84,16.7
+0,"Acaraú",19.6,2017-03-18,"CEARÁ","ANA",240.78,12034,"Forquilha","Arrebita","Arrebita",24639.12,"Açude Arrebita","Acude Arrebita","reservatorio","CE",5.59,28.5
+932767.72,"Peixe",3.6,2017-03-13,"PARAÍBA","AESA",93.28,12035,"Uiraúna","Arrojado","Arrojado",10312.76,"Açude Arrojado","Acude Arrojado","reservatorio","PB",0.45,12.6
+4281157.78,"Salgado",108.25,2017-03-17,"CEARÁ","ANA",428.12,12036,"Jati / Brejo Santo","Atalho","Atalho",48468.2,"Açude Atalho","Acude Atalho","reservatorio","CE",6.18,5.7
+0,"Acaraú",96.8,2017-03-17,"CEARÁ","ANA",1241.47,12037,"Sobral","Ayres de Souza","Ayres de Souza",67455.99,"Açude Ayres de Souza (Jaibara)","Acude Ayres de Souza (Jaibara)","reservatorio","CE",33.15,34.2
+8621272.82,"Médio Piranhas",39.23,2017-03-15,"PARAÍBA","AESA",862.13,12038,"Belém do Brejo do Cruz / São José do Brejo do Cruz","Baião","Baiao",36127.18,"Açude Baião","Acude Baiao","reservatorio","PB",4.93,12.6
+79567908.34,"Banabuiú",1601,2017-03-18,"CEARÁ","ANA",7956.79,12039,"Banabuiú / Quixeramobim","Banabuiu","Banabuiu",339775.29,"Açude Arrojado Lisboa (Banabuiu) (PCH Banabuiu)","Acude Arrojado Lisboa (Banabuiu) (PCH Banabuiu)","reservatorio","CE",9.86,0.6
+0,"Paraguaçu",111.59,2016-11-28,"BAHIA","ANA",2381.14,12040,"Itaetê / Boa Vista do Tupim","Bandeira de Melo","Bandeira de Melo",93454.1,"Açude Bandeira de Melo","Acude Bandeira de Melo","reservatorio","BA",114.67,102.8
+536120.65,"Moxotó",2.74,2017-03-15,"PERNAMBUCO","ANA",53.61,12041,"Sertânia","Barra","Barra",5397.89,"Açude Barra","Acude Barra","reservatorio","PE",0,0
+5657264.37,"Pajeu",71.47,2017-03-03,"PERNAMBUCO","ANA",565.73,12042,"Floresta / Betânia","Barra do Juá","Barra do Jua",48042.19,"Açude Barra do Juá","Acude Barra do Jua","reservatorio","PE",0.3,0.4
+17924731.26,"Parnaíba-CE",99.5,2017-03-18,"CEARÁ","ANA",1792.47,12043,"Independência","Barra Velha","Barra Velha",78470.86,"Açude Barra Velha","Acude Barra Velha","reservatorio","CE",0.1,0.1
+3490125.13,"Canindé",52.8,2017-02-20,"PIAUÍ","ANA",349.01,12044,"Fronteiras","Barreiras","Barreiras",20533.23,"Açude Barreiras","Acude Barreiras","reservatorio","PI",0.8,1.5
+358035.29,"Brígida",1.96,2017-02-24,"PERNAMBUCO","ANA",35.8,12045,"Cedro / Serrita","Barrinha","Barrinha",5395.62,"Açude Barrinha","Acude Barrinha","reservatorio","PE",0,0
+1355453.29,"Alto Piranhas",17.57,2017-03-13,"PARAÍBA","AESA",135.55,12046,"Bonito de Santa Fé","Bartolomeu I","Bartolomeu I",17620.81,"Açude São Bartolomeu I","Acude Sao Bartolomeu I","reservatorio","PB",0.03,0.2
+0,"Espinharas",1.27,2017-03-13,"PARAÍBA","AESA",6.69,12047,"Teixeira","Bastiana","Bastiana",2357.91,"Açude Bastiana","Acude Bastiana","reservatorio","PB",0,0
+2601315.49,"Metropolitana",33.51,2017-03-18,"CEARÁ","ANA",260.13,12048,"Ocara / Morada Nova","Batente","Batente",14700.35,"Açude Batente","Acude Batente","reservatorio","CE",2,6
+2033390.62,"Piranhas/Assu",8.06,2017-03-07,"RIO GRANDE DO NORTE","GOVERNO RN",203.34,12049,"Paraú","Beldroega","Beldroega",19768.62,"Açude Beldroega","Acude Beldroega","reservatorio","RN",8.06,100
+3936619.07,"Ipojuca",30.74,2017-03-03,"PERNAMBUCO","ANA",393.66,12050,"Belo Jardim / São Bento do Una","Belo Jardim (Ipojuca)","Belo Jardim (Ipojuca)",37016.87,"Açudee Belo Jardim (Pedro Moura Júnior)","Acudee Belo Jardim (Pedro Moura Junior)","reservatorio","PE",0.06,0.2
+2355457.54,"Alto Jaguaribe",19.56,2017-03-18,"CEARÁ","ANA",235.55,12052,"Aiuaba","Benguê","Bengue",27657.4,"Açude Benguê","Acude Bengue","reservatorio","CE",2.61,13.3
+240494.77,"Alto Paraíba",4.57,2017-03-13,"PARAÍBA","AESA",24.05,12053,"Barra de São Miguel","Bichinho","Bichinho",2389.67,"Açude Riacho do Bichinho","Acude Riacho do Bichinho","reservatorio","PB",0,0
+0,"Gorotuba",750,2017-01-19,"MINAS GERAIS","ANA",3538.2,12054,"Porteirinha / Janaúba","Barragem Bico da Pedra","Barragem Bico da Pedra",127700.38,"Barragem Bico da Pedra","Barragem Bico da Pedra","reservatorio","MG",107.33,14.3
+2822073.9,"Terra Nova",16.45,2016-12-13,"PERNAMBUCO","ANA",282.21,12056,"Verdejante / Salgueiro","Boa Vista","Boa Vista",41058.45,"Açude Boa Vista","Acude Boa Vista","reservatorio","PE",0.15,0.9
+509052.24,"Pajeu",1.63,2016-03-31,"PERNAMBUCO","ANA",50.91,12057,"Itapetim","Boa Vista","Boa Vista",7032.29,"Açude Boa Vista","Acude Boa Vista","reservatorio","PE",0.84,51.5
+9255207.73,"Canindé",106,2017-02-20,"PIAUÍ","ANA",925.52,12058,"Bocaina / São Luis do Piauí","Bocaina","Bocaina",55955.97,"Açude Bocaina","Acude Bocaina","reservatorio","PI",13.89,13.1
+0,"Alto Piranhas",0.34,2017-03-13,"PARAÍBA","AESA",12.89,12059,"São José de Piranhas","Bom Jesus","Bom Jesus",3118.46,"Açude Bom Jesus","Acude Bom Jesus","reservatorio","PB",0.01,2.5
+1383740.47,"Piancó",14.17,2017-03-15,"PARAÍBA","AESA",138.37,12060,"Água Branca","Bom Jesus II","Bom Jesus II",11374.28,"Açude Bom Jesus (Poço Comprido)","Acude Bom Jesus (Poco Comprido)","reservatorio","PB",1.33,9.4
+502418.33,"Pajeu",1.74,2016-03-31,"PERNAMBUCO","ANA",50.24,12061,"Tuparetama / Ingazeira","Bom Sucesso","Bom Sucesso",5430.49,"Açude Bom Sucesso","Acude Bom Sucesso","reservatorio","PE",0,0
+0,"Canindé",3.82,2017-02-20,"PIAUÍ","ANA",64.64,12062,"Bonfim do Piauí","Bonfim","Bonfim",12491.83,"Açude Bonfim","Acude Bonfim","reservatorio","PI",1.1,28.8
+684406.63,"Acaraú",6,2017-03-17,"CEARÁ","ANA",68.44,12063,"Ipu","Bonito","Bonito",9135.62,"Açude Bonito","Acude Bonito","reservatorio","CE",0,0
+1891610.02,"Apodi/Mossoró",10.87,2016-12-02,"RIO GRANDE DO NORTE","ANA",189.16,12064,"São Miguel","Bonito II","Bonito II",20108.51,"Açude do Bonito","Acude do Bonito","reservatorio","RN",0,0
+3513297.58,"Piranhas/Assu",16.02,2017-03-14,"RIO GRANDE DO NORTE","GOVERNO RN",351.33,12065,"Afonso Bezerra / Pedro Avelino","Boqueirão de Angicos","Boqueirao de Angicos",21676.18,"Açude Boqueirão de Angicos","Acude Boqueirao de Angicos","reservatorio","RN",0.34,2.1
+13435005.86,"Piranhas/Assu",84.79,2017-03-17,"RIO GRANDE DO NORTE","GOVERNO RN",1343.5,12066,"Parelhas","Boqueirão de Parelhas (Ministro João Alves)","Boqueirao de Parelhas (Ministro Joao Alves)",70596.32,"Açude Boqueirão de Parelhas (Ministro João Alves)","Acude Boqueirao de Parelhas (Ministro Joao Alves)","reservatorio","RN",9.69,11.4
+988064.64,"Jacu",12.37,2017-03-07,"PARAÍBA","AESA",98.81,12067,"Cuité","Boqueirão do Cais","Boqueirao do Cais",13995.54,"Açude Boqueirão do Cais","Acude Boqueirao do Cais","reservatorio","PB",0.21,1.7
+1478192.07,"Apodi/Mossoró",6.45,2017-03-07,"RIO GRANDE DO NORTE","GOVERNO RN",147.82,12070,"Olho-d'Água do Borges","Brejo","Brejo",8716.55,"Açude do Brejo","Acude do Brejo","reservatorio","RN",0,0
+0,"Una",1.07,2016-04-01,"PERNAMBUCO","ANA",11.12,12071,"Altinho","Brejo do Buraco","Brejo do Buraco",2120.52,"Açude Brejo do Buraco","Acude Brejo do Buraco","reservatorio","PE",0.22,20.8
+0,"Ipojuca",0.36,2016-12-15,"PERNAMBUCO","ANA",10.83,12072,"São Caetano","Brejo dos Coelhos","Brejo dos Coelhos",2381.87,"Açude Brejo dos Coelhos","Acude Brejo dos Coelhos","reservatorio","PE",0.11,30.9
+1291631.31,"Alto Jaguaribe",17.5,2017-03-16,"CEARÁ","ANA",129.16,12073,"Tauá","Brocó","Broco",15093.33,"Açude Brocó","Acude Broco","reservatorio","CE",0.47,2.7
+2596591.87,"Pajeu",19.64,2017-01-26,"PERNAMBUCO","ANA",259.66,12074,"Afogados da Ingazeira","Brotas","Brotas",27030.93,"Açude de Brotas","Acude de Brotas","reservatorio","PE",0.39,2
+2352575.77,"Piancó",38.21,2017-03-16,"PARAÍBA","AESA",235.26,12075,"Curral Velho","Bruscas","Bruscas",30627.47,"Açude Bruscas","Acude Bruscas","reservatorio","PB",6.95,18.2
+4151009.03,"Brígida",31.21,2017-03-03,"PERNAMBUCO","ANA",415.1,12076,"Parnamirim","Cachimbo","Cachimbo",26248.79,"Açude Cachimbo","Acude Cachimbo","reservatorio","PE",0,0
+3254400.89,"Salgado",34.33,2017-03-18,"CEARÁ","ANA",325.44,12077,"Aurora","Cachoeira","Cachoeira",38409.06,"Açude Cachoeira","Acude Cachoeira","reservatorio","CE",5.47,15.9
+0,"Peixe",0.34,2017-03-16,"PARAÍBA","AESA",4.41,12078,"Cachoeira dos Índios","Cachoeira da Vaca","Cachoeira da Vaca",1965.57,"Açude Cachoeira da Vaca","Acude Cachoeira da Vaca","reservatorio","PB",0.07,21.6
+1165533.34,"Piancó",10.61,2017-03-15,"PARAÍBA","AESA",116.55,12079,"Itaporanga","Cachoeira dos Alves","Cachoeira dos Alves",11686.57,"Açude Cachoeira dos Alves","Acude Cachoeira dos Alves","reservatorio","PB",0.85,8
+9263458.98,"Piancó",71.89,2017-03-02,"PARAÍBA","AESA",926.35,12080,"Catingueira","Cachoeira dos Cegos","Cachoeira dos Cegos",66086.2,"Açude Cachoeira dos Cegos","Acude Cachoeira dos Cegos","reservatorio","PB",16.42,22.8
+0,"Itapicuru",5.42,2017-03-02,"BAHIA","ANA",91.29,12081,"Jacobina","Cachoeira Grande","Cachoeira Grande",6920.88,"Açude Cachoeira Grande","Acude Cachoeira Grande","reservatorio","BA",1.48,27.3
+1068028.48,"Moxotó",5.95,2017-03-15,"PERNAMBUCO","ANA",106.8,12082,"Sertânia","Cachoeira I","Cachoeira I",8105.09,"Açude Cachoeira I","Acude Cachoeira I","reservatorio","PE",0,0
+3236650.49,"Pajeu",21.03,2017-02-03,"PERNAMBUCO","ANA",323.67,12083,"Serra Talhada","Cachoeira II","Cachoeira II",22965.18,"Açude Cachoeira II","Acude Cachoeira II","reservatorio","PE",1.22,5.8
+0,"Garças",1.73,2015-04-28,"PERNAMBUCO","ANA",31.35,12084,"Santa Cruz","Cacimba","Cacimba",4975.82,"Açude Cacimba","Acude Cacimba","reservatorio","PE",1.7,98.4
+643727.79,"Curimataú",9.26,2017-02-28,"PARAÍBA","AESA",64.37,12085,"Cacimba de Dentro / Casserengue","Cacimba da Várzea","Cacimba da Varzea",7115.29,"Açude Cacimba da Várzea","Acude Cacimba da Varzea","reservatorio","PB",2.63,28.4
+0,"Piancó",0.31,2017-03-14,"PARAÍBA","AESA",4.47,12086,"Serra Grande","Cafundo","Cafundo",1125.72,"Açude Cafundo","Acude Cafundo","reservatorio","PB",0.12,38.2
+203018.27,"Una",1.36,2015-08-26,"PERNAMBUCO","ANA",20.3,12087,"São Joaquim do Monte","Caianinha","Caianinha",2565.17,"Açude Caianinha","Acude Caianinha","reservatorio","PE",1.05,77.3
+4044126.74,"Canindé",24.7,2017-02-20,"PIAUÍ","ANA",404.41,12088,"Pio IX","Cajazeiras","Cajazeiras",32536.46,"Açude Cajazeiras II","Acude Cajazeiras II","reservatorio","PI",0,0
+1653774.42,"Piranhas/Assu",9.32,2017-03-03,"RIO GRANDE DO NORTE","GOVERNO RN",165.38,12090,"Parelhas","Caldeirão de Parelhas","Caldeirao de Parelhas",8107.79,"Açude Caldeirão de Parelhas","Acude Caldeirao de Parelhas","reservatorio","RN",0.99,10.6
+4289728.51,"Alto Paraíba",48.11,2017-03-18,"PARAÍBA","AESA",428.97,12091,"Camalaú","Camalaú","Camalau",31193.95,"Açude Camalaú","Acude Camalau","reservatorio","PB",2.81,5.8
+426871.58,"São Francisco",1.78,2017-03-08,"ALAGOAS","ANA",42.69,12092,"Girau do Ponciano / Campo Grande","Campo Grande","Campo Grande",5614.05,"Açude Campo Grande","Acude Campo Grande","reservatorio","AL",0.89,50
+4659254.39,"Potengi",23.14,2017-02-24,"RIO GRANDE DO NORTE","GOVERNO RN",465.93,12093,"São Paulo do Potengi","Campo Grande","Campo Grande",34085.83,"Açude Campo Grande","Acude Campo Grande","reservatorio","RN",0.35,1.5
+1398159.14,"Alto Paraíba",6.59,2017-03-14,"PARAÍBA","AESA",139.82,12095,"Caraúbas","Campos","Campos",11184.2,"Açude Campos (Congo)","Acude Campos (Congo)","reservatorio","PB",0.46,7
+3117820.74,"Médio Jaguaribe",13.11,2017-03-18,"CEARÁ","ANA",311.78,12096,"Iracema / Ererê","Canafístula","Canafistula",12312.16,"Açude Canafístula","Acude Canafistula","reservatorio","CE",0.11,0.8
+4887165.55,"Alto Jaguaribe",69.25,2017-03-18,"CEARÁ","ANA",488.72,12098,"Assaré","Canoas","Canoas",47012.47,"Açude Canoas","Acude Canoas","reservatorio","CE",6.44,9.3
+0,"Banabuiú",6,2017-03-18,"CEARÁ","ANA",60.18,12099,"Pedra Branca / Mombaça","Capitão Mor","Capitao Mor",9700.78,"Açude Capitão Mor","Acude Capitao Mor","reservatorio","CE",0.65,10.8
+0,"Peixe",37.55,2017-03-13,"PARAÍBA","AESA",318.37,12100,"Uiraúna / Santarém","Capivara","Capivara",26379.83,"Açude Capivara","Acude Capivara","reservatorio","PB",1.72,4.6
+5135595.13,"Espinharas",53.45,2016-12-15,"PARAÍBA","ANA",513.56,12101,"Mãe d'Água","Capoeira","Capoeira",35430.2,"Açude Capoeira","Acude Capoeira","reservatorio","PB",7.48,14
+0,"Canindé",0.58,2017-02-20,"PIAUÍ","ANA",3.36,12102,"Caracol","Caracol","Caracol",816.71,"Açude Caracol","Acude Caracol","reservatorio","PI",0.14,23.9
+341769.85,"Seridó",2.71,2017-01-26,"PARAÍBA","ANA",34.18,12103,"Picuí","Caraibeiras","Caraibeiras",5253.65,"Açude Caraibeiras","Acude Caraibeiras","reservatorio","PB",0,0
+0,"Complementar",0.72,2017-03-08,"ALAGOAS","ANA",9.29,12104,"Palmeira dos Índios","Caraibinhas","Caraibinhas",1635.76,"Açude Caraibinhas","Acude Caraibinhas","reservatorio","AL",0.28,38.9
+2887233.15,"Acaraú",26.23,2017-03-16,"CEARÁ","ANA",288.72,12105,"Tamboril","Carão","Carao",20178.8,"Açude Carão","Acude Carao","reservatorio","CE",0,0
+0,"Sergipe",0.82,2016-12-30,"SERGIPE","ANA",16.03,12106,"Carira","Carira","Carira",2965.26,"Açude Carira","Acude Carira","reservatorio","SE",0.78,95.2
+0,"Acaraú",13.63,2017-03-16,"CEARÁ","ANA",207.62,12107,"Catunda","Carmina","Carmina",17475.47,"Açude Carmina","Acude Carmina","reservatorio","CE",0,0
+3295838.96,"Piranhas/Assu",25.71,2017-02-22,"RIO GRANDE DO NORTE","GOVERNO RN",329.58,12108,"Caicó / São João do Sabugi","Carnaúba","Carnauba",24220.77,"Açude Carnaúba","Acude Carnauba","reservatorio","RN",5.76,22.4
+10480875.4,"Parnaíba-CE",87.69,2017-03-16,"CEARÁ","ANA",1048.09,12109,"Crateús","Carnaubal","Carnaubal",39160.54,"Açude Carnaubal","Acude Carnaubal","reservatorio","CE",0,0
+6394952.44,"Médio Piranhas",31.29,2017-03-15,"PARAÍBA","AESA",639.5,12110,"Jericó","Carneiro","Carneiro",36223.64,"Açude Carneiro","Acude Carneiro","reservatorio","PB",5.19,16.6
+326207543.13,"Médio Jaguaribe",6700,2017-03-18,"CEARÁ","ANA",32620.75,12112,"Jaguaribara / Alto Santo / Jaguaretama","Castanhão","Castanhao",756625.62,"Açude Castanhão","Acude Castanhao","reservatorio","CE",379.1,5.7
+6179106.06,"Metropolitana",63.9,2017-03-17,"CEARÁ","ANA",617.91,12113,"Itapiúna","Castro","Castro",42604.7,"Açude Castro","Acude Castro","reservatorio","CE",0.34,0.5
+876519.27,"Piancó",10.5,2017-03-16,"PARAÍBA","AESA",87.65,12114,"Manaíra","Catolé I","Catole I",14307.29,"Açude Catolé","Acude Catole","reservatorio","PB",5.33,50.7
+0,"Metropolitana",12,2017-03-18,"CEARÁ","ANA",292.1,12116,"Caucaia","Cauhípe","Cauhipe",15590.28,"Açude Cauhípe","Acude Cauhipe","reservatorio","CE",6.56,54.7
+0,"Curu",202,2017-03-17,"CEARÁ","ANA",1769.77,12117,"Umirim / Pentecoste","Caxitoré","Caxitore",79717.47,"Açude Caxitoré","Acude Caxitore","reservatorio","CE",7.29,3.6
+0,"Banabuiú",126,2017-03-17,"CEARÁ","ANA",732.5,12118,"Quixadá","Cedro","Cedro",43936.65,"Açude Cedro","Acude Cedro","reservatorio","CE",1.08,0.9
+0,"São Francisco",58,2017-03-03,"BAHIA","ANA",356.16,12119,"Guanambi","Ceraíma","Ceraima",14345.95,"Açude Ceraíma","Acude Ceraima","reservatorio","BA",52.6,90.7
+332628.59,"Baixo Paraíba",1.97,2017-03-03,"PARAÍBA","AESA",33.26,12120,"Ingá","Chã dos Pereiras","Cha dos Pereiras",5472.25,"Açude Chã dos Pereiras","Acude Cha dos Pereiras","reservatorio","PB",0.01,0.3
+0,"Rio de Contas",5.98,2017-03-06,"BAHIA","ANA",99.36,12121,"Condeúba","Champrão","Champrao",8550.16,"Açude Champrão","Acude Champrao","reservatorio","BA",3.28,54.8
+26940355.55,"Brígida",188,2017-01-26,"PERNAMBUCO","ANA",2694.04,12122,"Parnamirim / Serrita","Chapéu","Chapeu",185937.25,"Açude Chapéu","Acude Chapeu","reservatorio","PE",6.4,3.4
+682984.77,"Pajeu",3.45,2017-02-24,"PERNAMBUCO","ANA",68.3,12123,"Carnaíba","Chinelo","Chinelo",6674.77,"Barragem do Chinelo","Barragem do Chinelo","reservatorio","PE",0,0
+551088.6,"Peixe",2.76,2017-03-15,"PARAÍBA","AESA",55.11,12124,"São João do Rio do Peixe","Chupadouro i","Chupadouro i",6723.03,"Açude Chupadouro","Acude Chupadouro","reservatorio","PB",0.58,21.2
+8744843.92,"Banabuiú",86.09,2017-03-18,"CEARÁ","ANA",874.48,12126,"Morada Nova","Cipoada","Cipoada",38875.29,"Açude Cipoada","Acude Cipoada","reservatorio","CE",3.36,3.9
+701824.93,"Piancó",4.2,2017-03-17,"PARAÍBA","AESA",70.18,12128,"Igaracy / Itaporanga","Cochos","Cochos",10219.86,"Açude Boqueirão dos Cochos","Acude Boqueirao dos Cochos","reservatorio","PB",1.5,35.6
+23463642.47,"Vaza Barris",245.38,2017-03-06,"BAHIA","ANA",2346.36,12129,"Canudos","Cocorobó","Cocorobo",165727.09,"Açude do Cocorobó","Acude do Cocorobo","reservatorio","BA",136.71,55.7
+191239.55,"Vaza Barris",0.82,2016-12-30,"SERGIPE","ANA",19.12,12130,"Frei Paulo","Coité","Coite",4660.43,"Açude Coité","Acude Coite","reservatorio","SE",0.66,80.4
+1092613.66,"Parnaíba-CE",3.25,2017-03-17,"CEARÁ","ANA",109.26,12132,"Quiterianópolis","Colina","Colina",9799.02,"Açude Colina","Acude Colina","reservatorio","CE",2.45,75.4
+2330389.44,"Piancó",35.02,2017-03-14,"PARAÍBA","AESA",233.04,12133,"Conceição","Condado","Condado",19039.43,"Açude Condado","Acude Condado","reservatorio","PB",2.12,6.1
+11027181.05,"Alto Paraíba",69.97,2017-03-17,"PARAÍBA","AESA",1102.72,12134,"Camalaú / Congo","Cordeiro","Cordeiro",62542.12,"Açude Cordeiro","Acude Cordeiro","reservatorio","PB",0.03,0
+940516.79,"Apodi/Mossoró",3.71,2016-04-05,"RIO GRANDE DO NORTE","ANA",94.05,12135,"Antônio Martins","Corredor","Corredor",7479,"Açude Corredor","Acude Corredor","reservatorio","RN",0,0
+0,"São Francisco",126,2017-03-03,"BAHIA","ANA",1219.94,12136,"Urandi","Cova da Mandioca","Cova da Mandioca",46117.95,"Barragem Cova da Mandioca","Barragem Cova da Mandioca","reservatorio","BA",64.43,51.1
+0,"Mamanguape",0.67,2017-02-17,"PARAÍBA","AESA",7.08,12137,"Areial","Covão","Covao",2171.5,"Açude Covão","Acude Covao","reservatorio","PB",0,0.2
+216431.6,"São Francisco",0.49,2017-03-08,"ALAGOAS","ANA",21.64,12138,"Craíbas","Craíbas dos Nunes","Craibas dos Nunes",2553.02,"Açude Craíbas dos Nunes","Acude Craibas dos Nunes","reservatorio","AL",0.09,18.4
+556706.79,"Mamanguape",3.92,2014-01-01,"PARAÍBA","ANA",55.67,12139,"Pocinhos","Cruz dos Pocinhos","Cruz dos Pocinhos",7003.37,"Açude Catolé (Cruz do Riacho)","Acude Catole (Cruz do Riacho)","reservatorio","PB",0.41,10.5
+6096595.25,"Piranhas/Assu",23.55,2016-12-01,"RIO GRANDE DO NORTE","ANA",609.66,12140,"Cruzeta","Cruzeta","Cruzeta",39068.42,"Açude Cruzeta","Acude Cruzeta","reservatorio","RN",0,0
+0,"Japaratuba",0.99,2016-12-30,"SERGIPE","ANA",13.99,12141,"Cumbe","Cumbe","Cumbe",5859.65,"Açude Cumbe","Acude Cumbe","reservatorio","SE",0.75,75.6
+1650787.74,"Parnaíba-CE",4.55,2017-03-17,"CEARÁ","ANA",165.08,12142,"Independência","Cupim","Cupim",9877.55,"Açude Cupim","Acude Cupim","reservatorio","CE",1.18,25.9
+61578134.4,"Piancó",591.65,2017-03-18,"PARAÍBA","AESA",6157.81,12143,"Coremas / Piancó","Coremas","Coremas",292744.03,"Açude Coremas (Engenheiro Estevam Marinho)","Acude Coremas (Engenheiro Estevam Marinho)","reservatorio","PB",20.91,3.5
+528816.41,"Curimataú",5.99,2017-01-24,"PARAÍBA","ANA",52.88,12145,"Barra de Santa Rosa","Curimataú","Curimatau",6104.64,"Açude Curimataú","Acude Curimatau","reservatorio","PB",0.07,1.2
+1012378.3,"Apodi/Mossoró",4.02,2016-04-05,"RIO GRANDE DO NORTE","ANA",101.24,12146,"Severiano Melo / Itaú","Currais","Currais",9092.09,"Açude Currais (do Angico Velho)","Acude Currais (do Angico Velho)","reservatorio","RN",0,0
+0,"Piranhas/Assu",3.82,2016-10-27,"RIO GRANDE DO NORTE","ANA",98.95,12147,"Currais Novos","Currais Novos","Currais Novos",7658.88,"Açude Currais Novos","Acude Currais Novos","reservatorio","RN",0.13,3.3
+3364249.35,"Banabuiú",12.17,2017-03-18,"CEARÁ","ANA",336.42,12148,"Morada Nova","Curral Velho","Curral Velho",21766.88,"Açude do Curral Velho","Acude do Curral Velho","reservatorio","CE",10.89,89.5
+887045.33,"São Francisco",5.04,2017-03-08,"ALAGOAS","ANA",88.7,12150,"Delmiro Gouveia","Delmiro Gouveia (Sinimbu)","Delmiro Gouveia (Sinimbu)",8794.04,"Açude Delmiro Gouveia","Acude Delmiro Gouveia","reservatorio","AL",3.02,59.9
+0,"Curu",5.01,2017-03-16,"CEARÁ","ANA",112.09,12151,"Caridade","Desterro","Desterro",10399.94,"Açude Desterro","Acude Desterro","reservatorio","CE",0,0
+0,"Coreaú",13.2,2017-03-17,"CEARÁ","ANA",268.96,12152,"Coreaú","Diamante","Diamante",15503.93,"Açude Diamante","Acude Diamante","reservatorio","CE",2.57,19.5
+237166.65,"Alto Jaguaribe",1.77,2017-03-16,"CEARÁ","ANA",23.72,12153,"Saboeiro","Do Coronel","Do Coronel",4555.99,"Açude do Coronel","Acude do Coronel","reservatorio","CE",0.16,9
+0,"São Francisco",2.5,2017-03-08,"ALAGOAS","ANA",1.36,12154,"Dois Riachos","Dois Riachos","Dois Riachos",580.41,"Açude Público Dois Riachos","Acude Publico Dois Riachos","reservatorio","AL",0.75,30
+711416.93,"Piranhas/Assu",10.32,2017-03-02,"RIO GRANDE DO NORTE","GOVERNO RN",71.14,12155,"Currais Novos","Dourado","Dourado",7306.9,"Açude Dourado","Acude Dourado","reservatorio","RN",1.27,12.3
+375965.84,"Ipojuca",2.03,2017-02-24,"PERNAMBUCO","ANA",37.6,12157,"Poção","Duas Serras","Duas Serras",3459.5,"Barragem de Duas Serras","Barragem de Duas Serras","reservatorio","PE",0,0
+0,"Acaraú",254,2017-03-18,"CEARÁ","ANA",2190.69,12159,"Santa Quitéria","Edson Queiroz","Edson Queiroz",113660.13,"Açude Edson Queiroz (Serrote)","Acude Edson Queiroz (Serrote)","reservatorio","CE",62.02,24.4
+2301780.89,"Médio Jaguaribe",10.39,2017-03-16,"CEARÁ","ANA",230.18,12160,"Iracema","Ema","Ema",16710.62,"Açude da Ema","Acude da Ema","reservatorio","CE",0.14,1.4
+849844.43,"Piancó",2.01,2017-03-07,"PARAÍBA","AESA",84.98,12161,"Emas","Emas","Emas",7636.57,"Açude Emas","Acude Emas","reservatorio","PB",0.33,16.2
+0,"Mamanguape",0.46,2017-03-03,"PARAÍBA","AESA",1.91,12162,"Montadas","Emidio","Emidio",1312.98,"AçudeEmidio","AcudeEmidio","reservatorio","PB",0,0.6
+1124968.02,"Apodi/Mossoró",5.19,2017-03-08,"RIO GRANDE DO NORTE","GOVERNO RN",112.5,12163,"Encanto","Encanto","Encanto",11383.92,"Açude Encanto","Acude Encanto","reservatorio","RN",2.35,45.2
+182447931.6,"Piranhas/Assu",2400,2017-03-17,"RIO GRANDE DO NORTE","GOVERNO RN",18244.79,12164,"Itajá / São Rafael / Jucurutu","Engenheiro Armando Ribeiro Gonçalves","Engenheiro Armando Ribeiro Goncalves",528268.77,"Açude Armando Ribeiro Gonçalves","Acude Armando Ribeiro Goncalves","reservatorio","RN",407.83,17
+2539540.74,"Médio Piranhas",36.83,2017-03-17,"PARAÍBA","AESA",253.95,12165,"Condado","Engenheiro Arcoverde","Engenheiro Arcoverde",23612.2,"Açude Condado (Engenheiro Arcoverde)","Acude Condado (Engenheiro Arcoverde)","reservatorio","PB",6.5,17.6
+18607772.81,"Alto Piranhas",255,2017-03-18,"PARAÍBA","AESA",1860.78,12166,"São José de Piranhas","Engenheiro ávidos","Engenheiro avidos",121784.28,"Açude Engenheiro Ávidos (Piranhas)","Acude Engenheiro Avidos (Piranhas)","reservatorio","PB",12.77,5
+5576350.9,"Brígida",27.67,2017-02-24,"PERNAMBUCO","ANA",557.64,12167,"Ouricuri","Engenheiro Camacho (Tamboril II)","Engenheiro Camacho (Tamboril II)",25812.75,"Açude Engenheiro Camacho (ex Tamboril II)","Acude Engenheiro Camacho (ex Tamboril II)","reservatorio","PE",0,0
+55192648.84,"Moxotó",504,2017-03-02,"PERNAMBUCO","ANA",5519.26,12168,"Ibimirim / Sertânia","Engenheiro Francisco Saboia","Engenheiro Francisco Saboia",247400.39,"Açude Engenheiro Francisco Saboya (ex Poço da Cruz)","Acude Engenheiro Francisco Saboya (ex Poco da Cruz)","reservatorio","PE",11.57,2.3
+1401364.45,"Capibaribe",13.6,2017-03-03,"PERNAMBUCO","ANA",140.14,12169,"Caruaru / Brejo da Madre de Deus","Engenheiro Gercino de Pontes (Tabocas)","Engenheiro Gercino de Pontes (Tabocas)",15835.46,"Açude Engenheiro Gercino de Pontes (Tabocas)","Acude Engenheiro Gercino de Pontes (Tabocas)","reservatorio","PE",0,0
+1956752.08,"Ipojuca",17.78,2017-03-03,"PERNAMBUCO","ANA",195.68,12170,"Belo Jardim","Engenheiro Severino Guerra (Bitury)","Engenheiro Severino Guerra (Bitury)",11946.29,"Açude Engenheiro Severino Guerra (ex Bituri)","Acude Engenheiro Severino Guerra (ex Bituri)","reservatorio","PE",0,0
+38693848.7,"Brígida",339.33,2017-02-14,"PERNAMBUCO","ANA",3869.38,12171,"Parnamirim / Ouricuri","Entremontes","Entremontes",191980.94,"Açude Entremontes","Acude Entremontes","reservatorio","PE",5.53,1.6
+43674431.07,"Alto Paraíba",411.69,2017-03-18,"PARAÍBA","AESA",4367.44,12172,"Cabaceiras / Barra de São Miguel / Boqueirão","Epitácio Pessoa","Epitacio Pessoa",233326.83,"Açude Epitácio Pessoa (Boqueirão)","Acude Epitacio Pessoa (Boqueirao)","reservatorio","PB",14.08,3.4
+1996210.07,"Médio Piranhas",16.58,2017-03-10,"PARAÍBA","AESA",199.62,12173,"Belém do Brejo do Cruz","Escondido","Escondido",11332.3,"Açude Escondido","Acude Escondido","reservatorio","PB",1.97,11.9
+4405112.75,"Piranhas/Assu",27.94,2017-03-03,"RIO GRANDE DO NORTE","GOVERNO RN",440.51,12174,"Ouro Branco","Esguicho","Esguicho",33092.89,"Açude do Esguicho","Acude do Esguicho","reservatorio","RN",0.28,1
+512896.49,"Canindé",23.89,2017-02-20,"PIAUÍ","ANA",51.29,12175,"Belém do Piauí / Padre Marcos","Estreito","Estreito",6322.81,"Açude Estreito","Acude Estreito","reservatorio","PI",2.4,10
+9515944.65,"São Francisco",76,2017-03-03,"MINAS GERAIS / BAHIA","ANA",951.59,12176,"Espinosa / Urandi","Estreito","Estreito",33436.73,"Açude do Estreito","Acude do Estreito","reservatorio","MG / BA",27.52,36.2
+1869703.52,"Alto Jaguaribe",19,2017-03-18,"CEARÁ","ANA",186.97,12177,"Quixelô","Faé","Fae",24262.92,"Açude Faé","Acude Fae","reservatorio","CE",0,0
+0,"Acaraú",12.23,2017-03-16,"CEARÁ","ANA",148.61,12178,"Nova Russas","Farias de Souza","Farias de Souza",19347.08,"Açude Farias de Souza","Acude Farias de Souza","reservatorio","CE",0,0
+6019221.6,"Espinharas",25.74,2017-02-20,"PARAÍBA","AESA",601.92,12179,"Patos / Cacimba de Areia","Farinha","Farinha",36069.98,"Açude da Farinha","Acude da Farinha","reservatorio","PB",1.71,6.6
+0,"Canindé",1.83,2017-02-20,"PIAUÍ","ANA",1.62,12180,"Picos","Fátima","Fatima",1088.77,"Açude Fátima","Acude Fatima","reservatorio","PI",0,0
+3495044.32,"Alto Jaguaribe",30.1,2017-03-16,"CEARÁ","ANA",349.5,12181,"Tauá","Favelas","Favelas",35621.8,"Açude Favelas","Acude Favelas","reservatorio","CE",0,0
+356809.24,"Seridó",2.06,2016-12-07,"PARAÍBA","ANA",35.68,12182,"Seridó","Felismina Queiroz","Felismina Queiroz",5741.35,"Açude Felismina Queiroz","Acude Felismina Queiroz","reservatorio","PB",0,0
+2066532.87,"Apodi/Mossoró",8.95,2017-03-07,"RIO GRANDE DO NORTE","ANA",206.65,12183,"José da Penha","Flechas","Flechas",16306.78,"Açude Flechas","Acude Flechas","reservatorio","RN",0,0
+15310765.15,"Parnaíba-CE",105,2017-03-18,"CEARÁ","ANA",1531.08,12184,"Novo Oriente","Flor do Campo","Flor do Campo",66296.25,"Açude Flor do Campo (Novo Oriente)","Acude Flor do Campo (Novo Oriente)","reservatorio","CE",2.05,2
+17204132.66,"Banabuiú",118.82,2017-03-18,"CEARÁ","ANA",1720.41,12186,"Quixeramobim / Boa Viagem","Fogareiro","Fogareiro",108157.66,"Açude Antônio Ferreira Antero (Fogareiro)","Acude Antonio Ferreira Antero (Fogareiro)","reservatorio","CE",0.62,0.5
+0,"Acaraú",50.13,2017-03-17,"CEARÁ","ANA",795.96,12187,"Forquilha","Forquilha","Forquilha",42297.3,"Açude Forquilha","Acude Forquilha","reservatorio","CE",3,6
+557048.97,"Alto Jaguaribe",3.4,2017-03-16,"CEARÁ","ANA",55.7,12188,"Tauá","Forquilha II","Forquilha II",6651.19,"Açude Forquilha II","Acude Forquilha II","reservatorio","CE",0,0
+3927666.96,"Paraguaçu",24.19,2016-11-28,"BAHIA","ANA",392.77,12189,"Piritiba / Miguel Calmon","França","Franca",30676.1,"Barragem do França","Barragem do Franca","reservatorio","BA",19.42,80.3
+0,"Curu",33.02,2017-03-17,"CEARÁ","ANA",360.13,12190,"Umirim","Frios","Frios",32580.27,"Açude Frios","Acude Frios","reservatorio","CE",0.48,1.4
+311239.11,"Piancó",3.52,2017-03-15,"PARAÍBA","AESA",31.12,12191,"Igaracy / Aguiar","Frutuoso II","Frutuoso II",5066.55,"Açude Frutuoso II","Acude Frutuoso II","reservatorio","PB",0.12,3.3
+0,"Peixe",0.47,2017-03-16,"PARAÍBA","AESA",2.15,12193,"Triunfo","Gamela","Gamela",766.48,"Açude Gamela","Acude Gamela","reservatorio","PB",0.08,17
+0,"Médio Paraíba",1.45,2016-12-05,"PARAÍBA","ANA",11.32,12196,"Fagundes","Gavião","Gaviao",2122.6,"Açude Gavião","Acude Gaviao","reservatorio","PB",0.24,16.6
+24903723.87,"Curu",322.2,2017-03-17,"CEARÁ","ANA",2490.37,12197,"General Sampaio / Paramoti","General Sampaio","General Sampaio",155989.14,"Açude General Sampaio","Acude General Sampaio","reservatorio","CE",34.88,10.8
+0,"Litoral",4,2017-03-18,"CEARÁ","ANA",171.59,12198,"Sobral","Atimbone","Atimbone",16433.96,"Açude Atimbone","Acude Atimbone","reservatorio","CE",0.53,13.2
+0,"Piancó",1.35,2017-03-16,"PARAÍBA","AESA",3.34,12199,"Juru","Glória","Gloria",1440.56,"Açude Glória","Acude Gloria","reservatorio","PB",0.42,31.2
+0,"Sergipe",0.58,2016-12-30,"SERGIPE","ANA",11.72,12200,"Nossa Senhora da Glória","Glória","Gloria",3148.88,"Açude Glória","Acude Gloria","reservatorio","SE",0.51,88
+215687.07,"Salgado",2.39,2017-03-03,"CEARÁ","ANA",21.57,12202,"Mauriti","Gomes","Gomes",3580.45,"Açude Gomes","Acude Gomes","reservatorio","CE",0.32,13.4
+543279.26,"São Francisco",8.37,2017-03-08,"ALAGOAS","ANA",54.33,12204,"Mata Grande","Gravatá","Gravata",6294.82,"Açude Gravatá","Acude Gravata","reservatorio","AL",4.32,51.6
+913658.9,"Taperoá",3.68,2017-03-18,"PARAÍBA","AESA",91.37,12206,"Gurjão","Gurjão","Gurjao",5944.25,"Açude Gurjão","Acude Gurjao","reservatorio","PB",0,0
+833193.71,"Una",3.85,2016-09-02,"PERNAMBUCO","ANA",83.32,12207,"Capoeiras","Gurjão","Gurjao",5468.46,"Barragem do Gurjão","Barragem do Gurjao","reservatorio","PE",0.1,2.6
+1158314.2,"Ipanema",4.8,2017-01-26,"PERNAMBUCO","ANA",115.83,12208,"Venturosa / Pedra","Ingazeira","Ingazeira",10474.56,"Barragem de Ingazeira","Barragem de Ingazeira","reservatorio","PE",0.11,2.3
+5082438.08,"Canindé",25.72,2017-02-20,"PIAUÍ","ANA",508.24,12209,"Paulistana","Ingazeiras","Ingazeiras",37076.96,"Açude Ingazeiras","Acude Ingazeiras","reservatorio","PI",16.55,64.4
+2359801.97,"Trairi",17.6,2017-01-19,"RIO GRANDE DO NORTE","ANA",235.98,12210,"Santa Cruz","Inharé","Inhare",13928.09,"Açude Inharé","Acude Inhare","reservatorio","RN",0.56,3.2
+0,"Mundau",7.87,2017-01-26,"PERNAMBUCO","ANA",132.72,12211,"Garanhuns / São João","Inhumas","Inhumas",10357.67,"Açude Inhumas","Acude Inhumas","reservatorio","PE",0.82,10.4
+438708.47,"Ipanema",3.9,2017-02-24,"PERNAMBUCO","ANA",43.87,12212,"Pesqueira","Ipaneminha","Ipaneminha",4855.81,"Barragem de Ipaneminha","Barragem de Ipaneminha","reservatorio","PE",0,0
+11979288.43,"Piranhas/Assu",81.75,2017-03-17,"RIO GRANDE DO NORTE","GOVERNO RN",1197.93,12216,"Caicó","Itans","Itans",41700.66,"Açude Itans","Acude Itans","reservatorio","RN",1.38,1.7
+0,"Metropolitana",6.3,2017-03-18,"CEARÁ","ANA",148.91,12217,"Maranguape","Itapebussu","Itapebussu",10798.76,"Açude Itapebussu","Acude Itapebussu","reservatorio","CE",3.3,52.4
+0,"Parnaíba-CE",136.76,2017-03-17,"CEARÁ","ANA",1040.6,12219,"Ubajara / Tianguá","Jaburu I","Jaburu I",41058.21,"Açude Jaburu I","Acude Jaburu I","reservatorio","CE",19.13,14
+15808338.09,"Parnaíba-CE",116,2017-03-17,"CEARÁ","ANA",1580.83,12220,"Independência","Jaburu II","Jaburu II",75037.15,"Açude Jaburu II","Acude Jaburu II","reservatorio","CE",0.33,0.3
+0,"São Francisco",0.57,2015-03-18,"ALAGOAS","ANA",5.47,12221,"Jacaré dos Homens","Jacaré dos Homens","Jacare dos Homens",1802.5,"Açude Jacaré dos Homens","Acude Jacare dos Homens","reservatorio","AL",0.23,40.4
+1271913.87,"Jacu",20.65,2016-12-01,"RIO GRANDE DO NORTE","ANA",127.19,12223,"São José do Campestre","Japi II","Japi II",10900.97,"Açude Japi II","Acude Japi II","reservatorio","RN",0,0
+3275414.08,"São Francisco",19.01,2017-03-08,"ALAGOAS","ANA",327.54,12224,"Jaramataia","Jaramataia","Jaramataia",24312.83,"Açude Público Jaramataia","Acude Publico Jaramataia","reservatorio","AL",8.24,43.4
+0,"Banabuiú",1.07,2017-03-15,"CEARÁ","ANA",21.12,12225,"Milhã","Jatobá","Jatoba",4648.59,"Açude Jatobá","Acude Jatoba","reservatorio","CE",0.16,15
+4219987.19,"Espinharas",17.52,2017-03-16,"PARAÍBA","AESA",422,12226,"Patos / São José do Bonfim","Jatobá I","Jatoba I",27314.81,"Açude Jatobá I","Acude Jatoba I","reservatorio","PB",0.34,2
+761779.89,"Piancó",6.49,2017-01-26,"PARAÍBA","ANA",76.18,12227,"Princesa Isabel","Jatobá II","Jatoba II",8896.71,"Açude Jatobá II","Acude Jatoba II","reservatorio","PB",0.01,0.1
+2211046.14,"Pajeu",15.54,2017-02-24,"PERNAMBUCO","ANA",221.1,12228,"Serra Talhada","Jazigo","Jazigo",26475.44,"Açude Jazigo","Acude Jazigo","reservatorio","PE",0,0
+678174.39,"Alto Piranhas",1.95,2017-01-26,"PARAÍBA","ANA",67.82,12229,"São José da Lagoa Tapada","Jenipapeiro","Jenipapeiro",10465.52,"Açude Jenipapeiro","Acude Jenipapeiro","reservatorio","PB",0,0
+2078689.21,"Médio Jaguaribe",17,2017-03-18,"CEARÁ","ANA",207.87,12230,"Deputado Irapuan Pinheiro","Jenipapeiro","Jenipapeiro",23035.39,"Açude Jenipapeiro","Acude Jenipapeiro","reservatorio","CE",0.02,0.1
+9777355.07,"Piancó",70.76,2017-02-21,"PARAÍBA","AESA",977.74,12231,"Olho d'Água","Jenipapeiro (Buiú)","Jenipapeiro (Buiu)",79748.78,"Açude Jenipapeiro (Buiú)","Acude Jenipapeiro (Buiu)","reservatorio","PB",8.1,11.4
+0,"Salgado",43.45,2017-03-18,"CEARÁ","ANA",65.35,12232,"Baixio / Umari","Jenipapeiro II","Jenipapeiro II",8066.85,"Açude Jenipapeiro II","Acude Jenipapeiro II","reservatorio","CE",0.05,0.1
+0,"Canindé",248,2017-02-20,"PIAUÍ","ANA",1174.28,12233,"São João do Piauí / Capitão Gervásio Oliveira","Jenipapo","Jenipapo",97440.99,"Açude Jenipapo","Acude Jenipapo","reservatorio","PI",230,92.7
+1528471.42,"Taperoá",4.66,2017-03-16,"PARAÍBA","AESA",152.85,12234,"Desterro","Jeremias","Jeremias",17104.61,"Açude Jeremias","Acude Jeremias","reservatorio","PB",2.05,43.9
+0,"Curu",20.5,2017-03-18,"CEARÁ","ANA",261.5,12235,"Tejuçuoca / Irauçuba","Jerimum","Jerimum",28142,"Açude Jerimum","Acude Jerimum","reservatorio","CE",1.13,5.5
+2479680.56,"Apodi/Mossoró",9.64,2017-03-07,"RIO GRANDE DO NORTE","GOVERNO RN",247.97,12236,"Tenente Ananias","Jesus, Maria, José","Jesus, Maria, Jose",16216.82,"Açude Jesus, Maria, José","Acude Jesus, Maria, Jose","reservatorio","RN",0,0
+0,"Poti",10.67,2017-02-20,"PIAUÍ","ANA",79.04,12237,"Pedro II","Joana","Joana",4907.19,"Açude Joana","Acude Joana","reservatorio","PI",0.7,6.6
+4852554.29,"Médio Jaguaribe",26.77,2017-03-18,"CEARÁ","ANA",485.26,12240,"Jaguaribe","Joaquim Távora","Joaquim Tavora",31068.87,"Açude Joaquim Távora (Feiticeiro)","Acude Joaquim Tavora (Feiticeiro)","reservatorio","CE",2.95,11
+1147426.68,"Médio Paraíba",22.33,2017-03-02,"PARAÍBA","AESA",114.74,12241,"Campina Grande / Fagundes","José Rodrigues","Jose Rodrigues",14418.22,"Açude José Rodrigues","Acude Jose Rodrigues","reservatorio","PB",7.72,34.6
+402122.1,"Terra Nova",3.5,2017-02-24,"PERNAMBUCO","ANA",40.21,12242,"Mirandiba","Juá","Jua",4038.51,"Açude Juá","Acude Jua","reservatorio","PE",0,0
+10627211.02,"Capibaribe",327,2017-03-15,"PERNAMBUCO","ANA",1062.72,12243,"Frei Miguelinho / Riacho das Almas / Surubim","Jucazinho","Jucazinho",87231.58,"Açude Jucazinho (Antônio Gouveia Neto)","Acude Jucazinho (Antonio Gouveia Neto)","reservatorio","PE",0,0
+442846.49,"Salgado",2.03,2017-03-18,"CEARÁ","ANA",44.28,12244,"Granjeiro","Junco","Junco",3647.31,"Açude Junco","Acude Junco","reservatorio","CE",0.13,6.4
+7380225.21,"Peixe",80.22,2017-03-17,"PARAÍBA","AESA",738.02,12246,"Cajazeiras / Bom Jesus","Lagoa do Arroz","Lagoa do Arroz",54234.73,"Açude Lagoa do Arroz","Acude Lagoa do Arroz","reservatorio","PB",9.48,11.8
+4417478.15,"Brígida",22.95,2017-03-03,"PERNAMBUCO","ANA",441.75,12247,"Araripina","Lagoa do Barro","Lagoa do Barro",19350.05,"Açude Lagoa do Barro","Acude Lagoa do Barro","reservatorio","PE",0.03,0.1
+2558607.69,"Boqueirão",11.07,2017-03-17,"RIO GRANDE DO NORTE","GOVERNO RN",255.86,12249,"Touros","Lagoa do Boqueirão","Lagoa do Boqueirao",16730.06,"Lagoa do Boqueirão","Lagoa do Boqueirao","reservatorio","RN",7.99,72.2
+0,"Mamanguape",1.24,2017-02-15,"PARAÍBA","AESA",7.04,12250,"Bananeiras","Lagoa do Matias","Lagoa do Matias",978.72,"Açude Lagoa do Matias","Acude Lagoa do Matias","reservatorio","PB",0.21,17.1
+2010832.72,"Taperoá",6.65,2017-02-21,"PARAÍBA","AESA",201.08,12251,"Taperoá","Lagoa do Meio","Lagoa do Meio",15536.85,"Açude Lagoa do Meio","Acude Lagoa do Meio","reservatorio","PB",0.21,3.2
+207307.53,"São Francisco",1.61,2016-12-30,"SERGIPE","ANA",20.73,12252,"Porto da Folha","Lagoa do Rancho","Lagoa do Rancho",4132.02,"Açude Lagoa do Rancho","Acude Lagoa do Rancho","reservatorio","SE",0.34,21
+0,"Pajeu",1.1,2017-02-24,"PERNAMBUCO","ANA",4.91,12253,"Afogados da Ingazeira","Laje de Gato","Laje de Gato",1952.58,"Açude Laje de Gato","Acude Laje de Gato","reservatorio","PE",0,0
+11857007.39,"Salgado",66.38,2017-03-18,"CEARÁ","ANA",1185.7,12254,"Icó / Orós","Lima Campos","Lima Campos",47891.5,"Açude Lima Campos","Acude Lima Campos","reservatorio","CE",6.34,9.6
+538787.65,"Taperoá",2.43,2017-03-17,"PARAÍBA","AESA",53.88,12255,"Livramento","Livramento (Russos)","Livramento (Russos)",5621.15,"Açude Livramento (Russos)","Acude Livramento (Russos)","reservatorio","PB",0.37,15.1
+1931879.91,"Brígida",23.94,2017-01-24,"PERNAMBUCO","ANA",193.19,12256,"Bodocó / Ouricuri","Lopes II","Lopes II",11730.22,"Açude Lopes II","Acude Lopes II","reservatorio","PE",0.17,0.7
+4113288.27,"Apodi/Mossoró",24.75,2017-03-10,"RIO GRANDE DO NORTE","ANA",411.33,12257,"Lucrécia / Frutuoso Gomes","Lucrécia","Lucrecia",19875.71,"Açude Lucrécia","Acude Lucrecia","reservatorio","RN",0,0
+0,"Rio de Contas",105,2017-03-06,"BAHIA","ANA",774.83,12258,"Rio de Contas","Luís Vieira (Brumado)","Luis Vieira (Brumado)",35955.41,"Açude Engenheiro Luís Vieira (ex Brumado)","Acude Engenheiro Luis Vieira (ex Brumado)","reservatorio","BA",25.83,24.6
+0,"Metropolitana",10.32,2017-03-18,"CEARÁ","ANA",211.68,12259,"Ibaretama","Macacos","Macacos",19394.07,"Açude Macacos","Acude Macacos","reservatorio","CE",0.43,4.2
+274659.79,"Médio Jaguaribe",2.81,2017-03-16,"CEARÁ","ANA",27.47,12260,"Pereiro","Madeiro","Madeiro",2932.86,"Açude Madeiro","Acude Madeiro","reservatorio","CE",0,0
+0,"Piancó",568,2017-03-18,"PARAÍBA","AESA",4375.42,12261,"Coremas / Aguiar / Igaracy","Mãe d'água","Mae d'agua",235450.72,"Açude Mãe d'água (Engenheiro Egberto da Cunha)","Acude Mae d'agua (Engenheiro Egberto da Cunha)","reservatorio","PB",26.21,4.6
+352840.24,"Pajeu",1.5,2016-11-30,"PERNAMBUCO","ANA",35.28,12262,"Itapetim","Mãe d'água","Mae d'agua",3824.87,"Açude Mãe d'água","Acude Mae d'agua","reservatorio","PE",0.98,65.2
+196690.79,"São Francisco",0.3,2015-03-18,"ALAGOAS","ANA",19.67,12263,"Major Isidoro / Cacimbinhas","Major Izidoro","Major Izidoro",3003.81,"Açude Major Izidoro","Acude Major Izidoro","reservatorio","AL",0.1,33.3
+7064961.17,"Metropolitana",37.84,2017-03-18,"CEARÁ","ANA",706.5,12264,"Cascavel","Malcozinhado","Malcozinhado",39584.28,"Açude Malcozinhado","Acude Malcozinhado","reservatorio","CE",3.05,8.1
+2246165.29,"Apodi/Mossoró",7.54,2017-03-16,"RIO GRANDE DO NORTE","GOVERNO RN",224.62,12265,"Severiano Melo","Malhada Vermelha","Malhada Vermelha",14580.03,"Açude Malhada Vermelha","Acude Malhada Vermelha","reservatorio","RN",0.43,5.8
+0,"Canindé",2.08,2017-02-20,"PIAUÍ","ANA",21.59,12266,"Dirceu Arcoverde","Malhadinha","Malhadinha",4723.99,"Açude Dirceu Arcoverde","Acude Dirceu Arcoverde","reservatorio","PI",0.6,28.9
+NA,"Alto Jaguaribe",20.68,2017-03-18,"CEARÁ","ANA",NA,12267,"Antonina do Norte","Mamoeiro","Mamoeiro",NA,"Açude Mamoeiro","Acude Mamoeiro","reservatorio","CE",5.93,28.7
+1863525.94,"Salgado",37.18,2017-03-17,"CEARÁ","ANA",186.35,12268,"Caririaçu","Manoel Balbino","Manoel Balbino",24418.19,"Açude Manoel Balbino (Riacho dos Carneiros)","Acude Manoel Balbino (Riacho dos Carneiros)","reservatorio","CE",1.92,5.2
+258639.58,"São Francisco",1.61,2015-03-18,"ALAGOAS","ANA",25.86,12269,"Maravilha","Maravilha","Maravilha",3770.73,"Açude Maravilha","Acude Maravilha","reservatorio","AL",1.05,65.2
+2563277.71,"Apodi/Mossoró",11.2,2017-03-07,"RIO GRANDE DO NORTE","ANA",256.33,12270,"Marcelino Vieira","Marcelino Vieira","Marcelino Vieira",16466.07,"Açude Marcelino Vieira (Caiçara)","Acude Marcelino Vieira (Caicara)","reservatorio","RN",0,0
+7642061.93,"Piranhas/Assu",44.42,2017-03-03,"RIO GRANDE DO NORTE","GOVERNO RN",764.21,12271,"Acari","Marechal Dutra","Marechal Dutra",35373.25,"Açude Marechal Dutra (Gargalheiras)","Acude Marechal Dutra (Gargalheiras)","reservatorio","RN",0.13,0.3
+2942277.7,"Moxotó",21.62,2017-03-15,"PERNAMBUCO","ANA",294.23,12273,"Custódia","Marrecas/Custódia","Marrecas/Custodia",16771.12,"Açude Custódia","Acude Custodia","reservatorio","PE",0,0
+0,"Mamanguape",0.6,2016-12-12,"PARAÍBA","ANA",61.89,12275,"Massaranduba","Massaranduba","Massaranduba",11261.28,"Açude Massaranduba","Acude Massaranduba","reservatorio","PB",0.13,21.7
+10598674.56,"Piranhas/Assu",76.35,2017-03-17,"RIO GRANDE DO NORTE","GOVERNO RN",1059.87,12277,"Açu","Mendubim","Mendubim",60443.61,"Açude Mendubim","Acude Mendubim","reservatorio","RN",30.53,40
+194559.74,"Médio Paraíba",0.8,2017-01-26,"PARAÍBA","ANA",19.46,12278,"Puxinanã","Milhã (Evaldo Gonçalves)","Milha (Evaldo Goncalves)",3678.16,"Açude do Milhã (Evaldo Gonçalves)","Acude do Milha (Evaldo Goncalves)","reservatorio","PB",0,0
+0,"São Francisco",158,2017-03-02,"BAHIA","ANA",616.82,12279,"Ibipeba / Gentio do Ouro","Mirorós (Manoel Novais)","Miroros (Manoel Novais)",29406.09,"Barragem de Mirorós","Barragem de Miroros","reservatorio","BA",26.99,17.1
+NA,"LITORAL",65.3,2017-03-17,"CEARÁ","ANA",NA,12280,"Miraíma","Missi","Missi",NA,"Açude Missi","Acude Missi","reservatorio","CE",6.52,10
+0,"Banabuiú",12.1,2017-03-18,"CEARÁ","ANA",146.86,12281,"Monsenhor Tabosa","Monsenhor Tabosa","Monsenhor Tabosa",15822.65,"Açude Monsenhor Tabosa","Acude Monsenhor Tabosa","reservatorio","CE",0.43,3.6
+1972425.27,"Apodi/Mossoró",6.71,2017-03-08,"RIO GRANDE DO NORTE","ANA",197.24,12282,"Augusto Severo","Morcego","Morcego",15199.58,"Açude Morcego","Acude Morcego","reservatorio","RN",1,14.9
+398930.82,"Ipanema",2.93,2017-03-15,"PERNAMBUCO","ANA",39.89,12283,"Pedra","Mororó","Mororo",3849.18,"Açude Mororó","Acude Mororo","reservatorio","PE",0,0
+592934.41,"Rio de Contas",3.11,2017-03-06,"BAHIA","ANA",59.29,12284,"Poções","Morrinhos","Morrinhos",7733.52,"Açude Morrinhos","Acude Morrinhos","reservatorio","BA",1.44,46.3
+6071828.14,"Taperoá",25.37,2017-03-18,"PARAÍBA","AESA",607.18,12285,"Taperoá / Juazeirinho / Assunção","Mucutu","Mucutu",45299.46,"Açude Mucutu","Acude Mucutu","reservatorio","PB",0.21,0.8
+0,"Ipanema",1.28,2017-03-15,"PERNAMBUCO","ANA",6.66,12286,"Buíque","Mulungu","Mulungu",1489.51,"Açude Mulungu","Acude Mulungu","reservatorio","PE",0,0
+0,"Litoral",21.3,2017-03-18,"CEARÁ","ANA",105.85,12287,"Uruburetama","Mundaú","Mundau",6558.71,"Açude Mundaú","Acude Mundau","reservatorio","CE",6.98,32.8
+1611740.54,"Piranhas/Assu",3.6,2016-10-27,"RIO GRANDE DO NORTE","ANA",161.17,12288,"Caicó","Mundo Novo","Mundo Novo",10339.15,"Açude Mundo Novo","Acude Mundo Novo","reservatorio","RN",0,0
+3853986.63,"Alto Jaguaribe",47.64,2017-03-18,"CEARÁ","ANA",385.4,12289,"Cariús","Muquém","Muquem",45093.97,"Açude Muquém","Acude Muquem","reservatorio","CE",5.79,12.2
+222107.35,"Taperoá",2.12,2017-03-09,"PARAÍBA","AESA",22.21,12290,"São João do Cariri","Namorado","Namorado",2576.52,"Açude Namorado","Acude Namorado","reservatorio","PB",0.04,2
+4229260.73,"Terra Nova",22.71,2017-03-03,"PERNAMBUCO","ANA",422.93,12291,"Terra Nova / Cabrobó","Nilo Coelho","Nilo Coelho",31029.57,"Açude Nilo Coelho","Acude Nilo Coelho","reservatorio","PE",0.05,0.2
+0,"Canindé",9.02,2017-02-20,"PIAUÍ","ANA",177,12292,"Dom Inocêncio","Nonato","Nonato",19056.37,"Barragem do Oiti","Barragem do Oiti","reservatorio","PI",7,77.6
+1606247.52,"Médio Jaguaribe",5.19,2017-03-16,"CEARÁ","ANA",160.62,12293,"Jaguaribe / Solonópole","Nova Floresta","Nova Floresta",13534.02,"Açude Nova Floresta","Acude Nova Floresta","reservatorio","CE",0,0
+232288.54,"Piancó",0.71,2017-03-09,"PARAÍBA","AESA",23.23,12294,"Tavares","Novo II","Novo II",4000.56,"Açude Novo II","Acude Novo II","reservatorio","PB",0,0
+360092.54,"Capibaribe",3.02,2016-01-23,"PERNAMBUCO","ANA",36.01,12295,"Brejo da Madre de Deus","Oitis","Oitis",4393.93,"Barragem Oitis","Barragem Oitis","reservatorio","PE",0.2,6.7
+1469248.63,"Salgado",21,2017-03-18,"CEARÁ","ANA",146.92,12297,"Várzea Alegre","Olho d'água","Olho d'agua",14597.63,"Açude Olho d'água","Acude Olho d'agua","reservatorio","CE",5.15,24.5
+909138.82,"Taperoá",5.88,2017-01-25,"PARAÍBA","ANA",90.91,12298,"Olivedos","Olivedos","Olivedos",8061.83,"Açude Olivedos","Acude Olivedos","reservatorio","PB",0.02,0.3
+192705253.71,"Alto Jaguaribe",1940,2017-03-18,"CEARÁ","ANA",19270.53,12299,"Orós / Quixelô / Iguatu","Orós","Oros",526202.05,"Açude Orós (Presidente Juscelino Kubitschek de Oliveira) (PCH Orós)","Acude Oros (Presidente Juscelino Kubitschek de Oliveira) (PCH Oros)","reservatorio","CE",190.95,9.8
+0,"Alto Paraíba",1.68,2017-03-15,"PARAÍBA","AESA",43.26,12300,"Ouro Velho","Ouro Velho","Ouro Velho",6254.06,"Açude Ouro Velho","Acude Ouro Velho","reservatorio","PB",0.01,0.5
+1304635.84,"Metropolitana",240,2017-03-18,"CEARÁ","ANA",130.46,12301,"Pacajus","Pacajus","Pacajus",11488.28,"Açude Pacajus","Acude Pacajus","reservatorio","CE",41.16,17.2
+26675031.01,"Metropolitana",380,2017-03-18,"CEARÁ","ANA",2667.5,12302,"Horizonte / Itaitinga","Pacoti","Pacoti",96763.32,"Açude Pacoti","Acude Pacoti","reservatorio","CE",68.55,18
+406083.21,"São Francisco",2.12,2015-03-18,"ALAGOAS / PERNAMBUCO","ANA",40.61,12303,"Dois Riachos / Iati","Pai Mané","Pai Mane",5371.12,"Barragem Pai Mané","Barragem Pai Mane","reservatorio","AL / PE",1.06,50
+1398097.4,"Coruripe",3.74,2015-03-18,"ALAGOAS","ANA",139.81,12304,"Igaci","Palmeira dos Índios","Palmeira dos Indios",13711.1,"Açude Palmeira dos Índios (ex Coruripe)","Acude Palmeira dos Indios (ex Coruripe)","reservatorio","AL",3.36,89.8
+0,"Goiana",6.5,2017-01-26,"PERNAMBUCO","ANA",44.32,12305,"Bom Jardim / Machados","Palmeirinha","Palmeirinha",5506.23,"Açude Palmeirinha","Acude Palmeirinha","reservatorio","PE",2.9,44.7
+2979192.77,"Ipojuca",34.23,2016-08-01,"PERNAMBUCO","ANA",297.92,12306,"Poção / Pesqueira","Pão de Açúcar","Pao de Acucar",17885.88,"Barragem de Pão de Açúcar","Barragem de Pao de Acucar","reservatorio","PE",0.75,2.2
+1613257.8,"Peixe",5.34,2017-03-17,"PARAÍBA","AESA",161.33,12307,"São Francisco / Santa Cruz","Paraíso (Luiz Oliveira)","Paraiso (Luiz Oliveira)",15580.54,"Açude Paraíso (Luiz Oliveira)","Acude Paraiso (Luiz Oliveira)","reservatorio","PB",0.73,13.6
+1625916.75,"Alto Jaguaribe",8.53,2017-03-18,"CEARÁ","ANA",162.59,12308,"Parambu","Parambu","Parambu",20885.91,"Açude Parambu","Acude Parambu","reservatorio","CE",0.11,1.3
+0,"São Francisco",1.27,2017-03-08,"ALAGOAS","ANA",12.76,12309,"Pariconha","Pariconha","Pariconha",1857.67,"Açude Pariconha","Acude Pariconha","reservatorio","AL",0.7,55.1
+2511435.62,"Apodi/Mossoró",8.27,2017-03-08,"RIO GRANDE DO NORTE","GOVERNO RN",251.14,12310,"Rodolfo Fernandes","Passagem","Passagem",18641.49,"Açude Passagem","Acude Passagem","reservatorio","RN",0.85,10.3
+9443256.63,"Piranhas/Assu",49.7,2017-03-16,"RIO GRANDE DO NORTE","GOVERNO RN",944.33,12311,"São José do Seridó","Passagem das Traíras","Passagem das Trairas",62876.19,"Açude Passagem das Traíras","Acude Passagem das Trairas","reservatorio","RN",0.27,0.6
+4706708.82,"Piranhas/Assu",15.02,2017-03-17,"RIO GRANDE DO NORTE","GOVERNO RN",470.67,12312,"Ipanguaçu","Pataxós","Pataxos",29502.25,"Açude Pataxós","Acude Pataxos","reservatorio","RN",15.02,100
+0,"Litoral",7.55,2017-03-18,"CEARÁ","ANA",141.32,12313,"Sobral","Patos","Patos",12739.73,"Açude Patos","Acude Patos","reservatorio","CE",1.97,26.1
+5685654.4,"Banabuiú",71.83,2017-03-16,"CEARÁ","ANA",568.57,12314,"Senador Pompeu","Patu","Patu",51666.87,"Açude do Patu","Acude do Patu","reservatorio","CE",1.47,2
+365398.16,"Pontal",3,2015-01-05,"PERNAMBUCO","ANA",36.54,12315,"Afrânio","Pau Branco","Pau Branco",3242.32,"Açude Pau Branco","Acude Pau Branco","reservatorio","PE",0,0
+10955714.43,"Apodi/Mossoró",55.9,2017-03-07,"RIO GRANDE DO NORTE","ANA",1095.57,12316,"Pau dos Ferros / Rafael Fernandes / Marcelino Vieira","Pau dos Ferros","Pau dos Ferros",56138.14,"Açude Pau dos Ferros","Acude Pau dos Ferros","reservatorio","RN",0,0
+0,"Alto Jaguaribe",1.81,2017-03-09,"CEARÁ","ANA",73.97,12318,"Potengi","Pau Preto","Pau Preto",9892.98,"Açude Pau Preto","Acude Pau Preto","reservatorio","CE",0.06,3.3
+76196994.48,"Contas",1640,2017-03-06,"BAHIA","ANA",7619.7,12320,"Jequié / Manoel Vitorino / Maracás","Pedra","Pedra",210256.92,"UHE Pedra","UHE Pedra","reservatorio","BA",682,41.6
+20954799.38,"Canindé",216,2017-02-20,"PIAUÍ","ANA",2095.48,12321,"São Francisco de Assis do Piauí / Jacobina do Piauí / Paulistana","Pedra Redonda","Pedra Redonda",145759.33,"Açude Pedra Redonda","Acude Pedra Redonda","reservatorio","PI",183,84.7
+4567402.78,"Itapicuru",38.45,2016-11-28,"BAHIA","ANA",456.74,12322,"Jacobina / Caém","Pedras Altas","Pedras Altas",27028.25,"Barragem de Pedras Altas","Barragem de Pedras Altas","reservatorio","BA",16.34,42.5
+39606934.23,"Banabuiú",434.04,2017-03-18,"CEARÁ","ANA",3960.69,12323,"Quixadá","Pedras Brancas","Pedras Brancas",194615.24,"Açude Vinicius Barreto (ex Pedra Branca)","Acude Vinicius Barreto (ex Pedra Branca)","reservatorio","CE",34.37,7.9
+0,"Metropolitana",2.41,2017-03-18,"CEARÁ","ANA",42.68,12324,"Maranguape","Penedo","Penedo",5592.41,"Açude Penedo","Acude Penedo","reservatorio","CE",0.31,12.9
+0,"Curu",360,2017-03-17,"CEARÁ","ANA",3764.37,12325,"Pentecoste / Apuiarés","Pentecoste","Pentecoste",175853.98,"Açude Pereira de Miranda (Pentecoste)","Acude Pereira de Miranda (Pentecoste)","reservatorio","CE",0.65,0.2
+0,"Metropolitana",9.03,2017-03-17,"CEARÁ","ANA",50.36,12326,"Capistrano / Aratuba","Pesqueiro","Pesqueiro",8880.45,"Açude Pesqueiro","Acude Pesqueiro","reservatorio","CE",0.46,5.1
+0,"Canindé",181.25,2017-02-20,"PIAUÍ","ANA",2160.86,12327,"São Raimundo Nonato","Petrônio Portela","Petronio Portela",177587.37,"Açude Petrônio Portela","Acude Petronio Portela","reservatorio","PI",15,8.3
+0,"Canindé",104.51,2017-02-20,"PIAUÍ","ANA",375.38,12328,"São Julião","Piaus","Piaus",47065.36,"Açude Piaus","Acude Piaus","reservatorio","PI",5.5,5.3
+990585.32,"Apodi/Mossoró",5.9,2017-03-07,"RIO GRANDE DO NORTE","ANA",99.06,12329,"Pilões","Pilões","Piloes",11681.9,"Açude Pilões","Acude Piloes","reservatorio","RN",0,0
+4897343.86,"Peixe",13,2017-03-17,"PARAÍBA","AESA",489.73,12330,"São João do Rio do Peixe / Triunfo","Pilões","Piloes",12823.78,"Açude Pilões","Acude Piloes","reservatorio","PB",2.99,23
+0,"Piancó",0.26,2017-03-17,"PARAÍBA","AESA",19.57,12331,"São José de Caiana","Pimenta","Pimenta",6718.32,"Açude Pimenta","Acude Pimenta","reservatorio","PB",0.04,14.6
+0,"Itapicuru",16.88,2016-11-28,"BAHIA","ANA",152.37,12332,"Pindobaçu","Pindobaçu","Pindobacu",18384.67,"Açude Pindobaçu","Acude Pindobacu","reservatorio","BA",15.06,89.2
+3120034.3,"São Francisco",15.22,2017-03-06,"BAHIA","ANA",312,12333,"Curaçá / Juazeiro","Pinhões","Pinhoes",17152.75,"Açude Pinhões","Acude Pinhoes","reservatorio","BA",3.88,25.5
+6817982.51,"Banabuiú",74,2017-03-18,"CEARÁ","ANA",681.8,12334,"Madalena / Quixeramobim","Pirabibu","Pirabibu",38463.15,"Açude Pirabibu","Acude Pirabibu","reservatorio","CE",0.91,1.2
+1902062.79,"Piancó",25.7,2017-03-17,"PARAÍBA","AESA",190.21,12335,"Ibiara","Piranhas","Piranhas",21084.1,"Açude Piranhas","Acude Piranhas","reservatorio","PB",3.09,12
+2106550.4,"Alto Paraíba",6.79,2017-03-18,"PARAÍBA","AESA",210.66,12339,"Monteiro","Pocinhos","Pocinhos",16155.55,"Açude Pocinhos","Acude Pocinhos","reservatorio","PB",0.02,0.2
+10980889.51,"Ceará-Mirim",135.16,2017-02-24,"RIO GRANDE DO NORTE","ANA",1098.09,12340,"Poço Branco / Bento Fernandes","Poço Branco (José Batista do Rego Pereira)","Poco Branco (Jose Batista do Rego Pereira)",61981.72,"Açude Poço Branco (José Batista do Rego Pereira)","Acude Poco Branco (Jose Batista do Rego Pereira)","reservatorio","RN",9.28,6.9
+8222671.28,"Alto Jaguaribe",52,2017-03-18,"CEARÁ","ANA",822.27,12341,"Campos Sales","Poço da Pedra","Poco da Pedra",56292.92,"Açude Poço da Pedra","Acude Poco da Pedra","reservatorio","CE",0.05,0.1
+0,"São Francisco",0.72,2015-03-18,"ALAGOAS","ANA",4.42,12342,"Poço das Trincheiras","Poço das Trincheiras","Poco das Trincheiras",1111.1,"Açude Poço das Trincheiras","Acude Poco das Trincheiras","reservatorio","AL",0.18,25
+7829312.58,"Banabuiú",52,2017-03-02,"CEARÁ","ANA",782.93,12343,"Morada Nova","Poço do Barro","Poco do Barro",56682.44,"Açude Poço do Barro","Acude Poco do Barro","reservatorio","CE",0.69,1.3
+0,"São Francisco",32,2017-03-03,"BAHIA","ANA",175.68,12344,"Guanambi","Poço do Magro","Poco do Magro",13850.14,"Barragem Poço do Magro","Barragem Poco do Magro","reservatorio","BA",28.65,89.5
+2111401.83,"Capibaribe",27.75,2017-03-03,"PERNAMBUCO","ANA",211.14,12345,"Santa Cruz do Capibaribe / Brejo da Madre de Deus","Poço Fundo","Poco Fundo",23217.76,"Açude Poço Fundo","Acude Poco Fundo","reservatorio","PE",0,0
+0,"Terra Nova",3.92,2015-12-23,"PERNAMBUCO","ANA",2.62,12346,"Salgueiro / Serrita","Poço Grande","Poco Grande",2279.05,"Açude Poço Grande","Acude Poco Grande","reservatorio","PE",1.18,30
+1685815.77,"Piancó",8.93,2017-03-15,"PARAÍBA","AESA",168.58,12347,"Santana de Mangueira","Poço Redondo","Poco Redondo",25613.15,"Açude Poço Redondo","Acude Poco Redondo","reservatorio","PB",1.79,20.1
+0,"Litoral",13.65,2017-03-16,"CEARÁ","ANA",320.27,12348,"Itapipoca","Poço Verde","Poco Verde",11943.14,"Açude Poço Verde","Acude Poco Verde","reservatorio","CE",4.67,34.2
+6638447.06,"Alto Paraíba",29.86,2017-03-18,"PARAÍBA","AESA",663.84,12349,"Monteiro","Poções","Pocoes",37618.67,"Açude Poções","Acude Pocoes","reservatorio","PB",1.21,4
+0,"Canindé",0.91,2017-02-20,"PIAUÍ","ANA",510.68,12350,"Rio Grande do Piauí / Itaueira","Poços","Pocos",18454.32,"Barragem Poços","Barragem Pocos","reservatorio","PI",0.3,32.9
+876467.94,"Curimataú",7.93,2016-12-13,"PARAÍBA","ANA",87.65,12351,"Barra de Santa Rosa","Poleiros","Poleiros",10868.93,"Açude Poleiros","Acude Poleiros","reservatorio","PB",0.1,1.3
+8962166.4,"Metropolitana",143,2017-03-17,"CEARÁ","ANA",896.22,12352,"Choró","Pompeu Sobrinho","Pompeu Sobrinho",71048.33,"Açude Pompeu Sobrinho (Choró Limão)","Acude Pompeu Sobrinho (Choro Limao)","reservatorio","CE",11.16,7.8
+0,"São Francisco",0.76,2015-03-18,"ALAGOAS","ANA",14.65,12353,"Girau do Ponciano","Ponciano","Ponciano",2132.07,"Açude Ponciano","Acude Ponciano","reservatorio","AL",0.46,60.5
+6724380.56,"Itapicuru",38.94,2016-11-28,"BAHIA","ANA",672.44,12354,"Ponto Novo / Pindobaçu / Filadélfia","Ponto Novo","Ponto Novo",42190.08,"CGH Ponto Novo","CGH Ponto Novo","reservatorio","BA",14.2,36.5
+1890739.18,"Médio Jaguaribe",6.33,2017-03-16,"CEARÁ","ANA",189.07,12355,"Potiretama","Potiretama","Potiretama",14500.92,"Açude Potiretama","Acude Potiretama","reservatorio","CE",0,0
+370977.85,"Alto Paraíba",1.31,2017-01-26,"PARAÍBA","ANA",37.1,12357,"Prata","Prata II","Prata II",3961.95,"Açude da Prata II","Acude da Prata II","reservatorio","PB",0,0
+2082321.59,"Salgado",32.5,2017-03-18,"CEARÁ","ANA",208.23,12358,"Barro","Prazeres","Prazeres",31413.06,"Açude Prazeres","Acude Prazeres","reservatorio","CE",3.75,11.5
+0,"Litoral",4,2017-03-18,"CEARÁ","ANA",31.37,12360,"Itapipoca","Quandu","Quandu",7363.3,"Açude Quandu","Acude Quandu","reservatorio","CE",1.87,46.8
+2313430.51,"Piancó",15.63,2017-03-15,"PARAÍBA","AESA",231.34,12361,"Santana dos Garrotes","Queimadas","Queimadas",32810.97,"Açude Queimadas","Acude Queimadas","reservatorio","PB",4.88,31.2
+807715.5,"Itapicuru",4.23,2017-03-06,"BAHIA","ANA",80.77,12362,"Senhor do Bonfim / Andorinha","Quicé","Quice",9446.97,"Açude Quicé","Acude Quice","reservatorio","BA",1.38,32.6
+336932.06,"Alto Jaguaribe",4.33,2017-03-14,"CEARÁ","ANA",33.69,12363,"Acopiara","Quincoé","Quincoe",6708.33,"Açude Quincoé","Acude Quincoe","reservatorio","CE",0.02,0.5
+1297911.74,"Salgado",31.78,2017-03-03,"CEARÁ","ANA",129.79,12364,"Mauriti","Quixabinha","Quixabinha",15368.94,"Açude Quixabinha","Acude Quixabinha","reservatorio","CE",0.48,1.5
+2136764.61,"Banabuiú",54,2017-03-16,"CEARÁ","ANA",213.68,12365,"Quixeramobim","Quixeramobim","Quixeramobim",17281.75,"Açude Quixeramobim","Acude Quixeramobim","reservatorio","CE",0,0
+204155.06,"Brígida",1.04,2016-11-16,"PERNAMBUCO","ANA",20.42,12366,"Araripina","Rancharia","Rancharia",2272.54,"Açude Rancharia","Acude Rancharia","reservatorio","PE",0.01,0.8
+4421959.24,"Parnaíba-CE",31.55,2017-03-18,"CEARÁ","ANA",442.2,12367,"Crateús","Realejo","Realejo",25840.77,"Açude Realejo","Acude Realejo","reservatorio","CE",1.11,3.5
+424743.44,"São Francisco",1.7,2017-03-08,"ALAGOAS","ANA",42.47,12368,"Palestina","Retiro","Retiro",5041.88,"Açude Retiro","Acude Retiro","reservatorio","AL",0.96,56.5
+639956.23,"Apodi/Mossoró",9.6,2017-03-15,"RIO GRANDE DO NORTE","GOVERNO RN",64,12370,"Riacho da Cruz","Riacho da Cruz II","Riacho da Cruz II",5589.32,"Açude Riacho da Cruz II","Acude Riacho da Cruz II","reservatorio","RN",4.29,44.7
+0,"Médio Jaguaribe",23.47,2017-03-18,"CEARÁ","ANA",231.98,12371,"Alto Santo","Riacho da Serra","Riacho da Serra",25696.01,"Açude Riacho da Serra","Acude Riacho da Serra","reservatorio","CE",0.57,2.4
+681112.34,"Espinharas",6.41,2017-03-09,"PARAÍBA","AESA",68.11,12372,"Teixeira / Maturéia","Riacho das Moças","Riacho das Mocas",7953.75,"Açude Riacho das Moças","Acude Riacho das Mocas","reservatorio","PB",0.01,0.2
+0,"São Francisco",1.06,2015-03-18,"ALAGOAS","ANA",8.45,12373,"Santana do Ipanema","Riacho de Bode","Riacho de Bode",1411.39,"Açude Riacho de Bode","Acude Riacho de Bode","reservatorio","AL",0.26,24.5
+0,"Rio de Contas",53.8,2016-12-05,"BAHIA","ANA",329.28,12374,"Livramento de Nossa Senhora","Riacho do Paulo","Riacho do Paulo",21608.33,"Açude Riacho do Paulo","Acude Riacho do Paulo","reservatorio","BA",0.62,1.2
+7759726.32,"Médio Jaguaribe",61.42,2017-03-16,"CEARÁ","ANA",775.97,12375,"Solonópole","Riacho do Sangue","Riacho do Sangue",59476.16,"Açude Riacho do Sangue","Acude Riacho do Sangue","reservatorio","CE",0.3,0.5
+2777537.06,"Médio Piranhas",17.7,2017-03-18,"PARAÍBA","AESA",277.75,12376,"Riacho dos Cavalos","Riacho dos Cavalos","Riacho dos Cavalos",13169.06,"Açude Riacho dos Cavalos","Acude Riacho dos Cavalos","reservatorio","PB",1.02,5.8
+974581.08,"Médio Paraíba",6.83,2017-01-26,"PARAÍBA","ANA",97.46,12377,"Barra de São Miguel","Riacho de Santo Antônio","Riacho de Santo Antonio",8970.61,"Açude Riacho de Santo Antônio","Acude Riacho de Santo Antonio","reservatorio","PB",0,0
+0,"Sergipe",0.92,2016-12-30,"SERGIPE","ANA",17.95,12378,"Ribeirópolis","Ribeirópolis","Ribeiropolis",3924.47,"Açude Ribeirópolis","Acude Ribeiropolis","reservatorio","SE",0.87,95
+2963485.91,"Piranhas/Assu",13.6,2017-03-07,"RIO GRANDE DO NORTE","GOVERNO RN",296.35,12379,"Santana do Matos","Rio da Pedra","Rio da Pedra",29244,"Açude Rio da Pedra","Acude Rio da Pedra","reservatorio","RN",0.19,1.4
+1648529.6,"Alto Jaguaribe",19.52,2017-03-18,"CEARÁ","ANA",164.85,12380,"Catarina","Rivaldo de Carvalho","Rivaldo de Carvalho",24088.15,"Açude Rivaldo de Carvalho","Acude Rivaldo de Carvalho","reservatorio","CE",0.18,0.9
+2278631.11,"Apodi/Mossoró",21.4,2017-03-07,"RIO GRANDE DO NORTE","GOVERNO RN",227.86,12381,"Umarizal / Almino Afonso / Rafael Godeiro","Rodeador","Rodeador",15658.92,"Açude Rodeador","Acude Rodeador","reservatorio","RN",1.46,6.8
+18584654.75,"Itapicuru",146.82,2017-03-06,"BAHIA","ANA",1858.47,12382,"Cansanção / Itiúba","Rômulo Campos","Romulo Campos",87174.69,"Açude Rômulo Campos (Jacurici)","Acude Romulo Campos (Jacurici)","reservatorio","BA",94.17,64.1
+7965098.72,"Pajeu",34.99,2017-02-24,"PERNAMBUCO","ANA",796.51,12383,"Ingazeira / Iguaraci","Rosário","Rosario",46847.79,"Açude Rosário","Acude Rosario","reservatorio","PE",0,0
+5313255.31,"Salgado",47.2,2017-03-18,"CEARÁ","ANA",531.33,12384,"Lavras da Mangabeira","Rosário","Rosario",47743.73,"Açude Rosário","Acude Rosario","reservatorio","CE",14.23,30.2
+389503.92,"Espinharas",1.95,2017-03-03,"PARAÍBA","AESA",38.95,12385,"Teixeira","Sabonete","Sabonete",3806.42,"Açude Sabonete","Acude Sabonete","reservatorio","PB",0,0
+11830134.37,"Piranhas/Assu",65.33,2017-03-03,"RIO GRANDE DO NORTE","ANA",1183.01,12386,"São João do Sabugi","Sabugi","Sabugi",72405.22,"Açude Sabugi","Acude Sabugi","reservatorio","RN",8.96,13.7
+5231541.05,"Piancó",97.49,2017-03-14,"PARAÍBA","AESA",523.15,12387,"Pedra Branca / Princesa Isabel","Saco","Saco",46331.57,"Açude Saco","Acude Saco","reservatorio","PB",17.91,18.4
+18387500.4,"Garças",123.52,2017-03-14,"PERNAMBUCO","ANA",1838.75,12388,"Santa Maria da Boa Vista / Lagoa Grande / Santa Cruz","Saco II","Saco II",147422.41,"Açude Saco II","Acude Saco II","reservatorio","PE",4.02,3.2
+0,"Curu",6.04,2017-03-17,"CEARÁ","ANA",88.21,12389,"Canindé","Salão","Salao",11597.99,"Açude Salão","Acude Salao","reservatorio","CE",1.07,17.7
+485992.41,"Terra Nova",14.7,2017-02-24,"PERNAMBUCO","ANA",48.6,12390,"Verdejante","Salgueiro","Salgueiro",7199.09,"Açude Salgueiro","Acude Salgueiro","reservatorio","PE",0,0
+0,"Canindé",387.41,2017-02-20,"PIAUÍ","ANA",1355.05,12391,"São Francisco do Piauí","Salinas","Salinas",54583.44,"Açude Salinas","Acude Salinas","reservatorio","PI",283,73
+32060596.76,"Apodi/Mossoró",599.71,2017-03-17,"RIO GRANDE DO NORTE","GOVERNO RN",3206.06,12392,"Apodi","Santa Cruz do Apodi","Santa Cruz do Apodi",121561.66,"Açude Santa Cruz do Apodi","Acude Santa Cruz do Apodi","reservatorio","RN",135.78,22.6
+1382564.52,"Trairi",5.16,2016-10-26,"RIO GRANDE DO NORTE","ANA",138.26,12393,"Santa Cruz","Santa Cruz","Santa Cruz",12640.59,"Açude Santa Cruz","Acude Santa Cruz","reservatorio","RN",0,0
+1884501.42,"Piancó",26.12,2017-03-16,"PARAÍBA","AESA",188.45,12395,"Santa Inês","Santa Inês","Santa Ines",24655.41,"Açude Santa Inês","Acude Santa Ines","reservatorio","PB",0.59,2.3
+1683444.53,"Seridó",11.96,2017-03-07,"PARAÍBA","AESA",168.34,12396,"Santa Luzia","Santa Luzia","Santa Luzia",7451.51,"Açude Santa Luzia (Tartaruga)","Acude Santa Luzia (Tartaruga)","reservatorio","PB",0.34,2.8
+3168030.69,"Médio Jaguaribe",5.87,2017-03-18,"CEARÁ","ANA",316.8,12397,"Ererê","Santa Maria","Santa Maria",15316.67,"Açude Santa Maria","Acude Santa Maria","reservatorio","CE",0.19,3.2
+0,"Litoral",8.2,2017-03-18,"CEARÁ","ANA",232.73,12398,"Sobral","Santa Maria do Aracatiaçu","Santa Maria do Aracatiacu",17507.44,"Açude Santa Maria do Aracatiaçu","Acude Santa Maria do Aracatiacu","reservatorio","CE",1.16,14.2
+1597644.5,"Médio Piranhas",2.84,2017-03-15,"PARAÍBA","AESA",159.76,12399,"Brejo do Cruz","Santa Rosa","Santa Rosa",9524.77,"Açude Santa Rosa","Acude Santa Rosa","reservatorio","PB",0.12,4.1
+5545617.69,"Alto Paraíba",24.42,2016-12-10,"PARAÍBA","ANA",554.56,12400,"São Sebastião do Umbuzeiro","Santo Antônio","Santo Antonio",32399.19,"Açude Santo Antônio","Acude Santo Antonio","reservatorio","PB",0.16,0.7
+0,"Médio Jaguaribe",0.83,2017-03-16,"CEARÁ","ANA",16.26,12401,"Iracema","Santo Antônio","Santo Antonio",3369.56,"Açude Santo Antônio","Acude Santo Antonio","reservatorio","CE",0.01,1.2
+3226153.91,"Apodi/Mossoró",8.54,2017-03-08,"RIO GRANDE DO NORTE","ANA",322.62,12402,"Caraúbas / Janduís","Santo Antônio de Caraúbas","Santo Antonio de Caraubas",17620.21,"Santo Antônio de Caraúbas","Santo Antonio de Caraubas","reservatorio","RN",0.85,10
+5370080.79,"Litoral",24.34,2017-03-18,"CEARÁ","ANA",537.01,12403,"Sobral / Irauçuba","Santo Antônio do Aracatiaçu","Santo Antonio do Aracatiacu",39830.22,"Açude Santo Antônio do Aracatiaçu","Acude Santo Antonio do Aracatiacu","reservatorio","CE",6.3,25.9
+5974737.41,"Baixo Jaguaribe",24,2017-03-16,"CEARÁ","ANA",597.47,12404,"Russas","Santo Antônio de Russas","Santo Antonio de Russas",29060.84,"Açude Santo Antônio de Russas","Acude Santo Antonio de Russas","reservatorio","CE",0,0
+0,"Curu",3.2,2017-03-17,"CEARÁ","ANA",51.99,12405,"Caridade","São Domingos","Sao Domingos",7068.79,"Açude São Domingos","Acude Sao Domingos","reservatorio","CE",0,0
+1159763.71,"Alto Paraíba",7.76,2017-03-17,"PARAÍBA","AESA",115.98,12406,"São Domingos do Cariri","São Domingos","Sao Domingos",10893.46,"Açude São Domingos","Acude Sao Domingos","reservatorio","PB",1.44,18.5
+231536.35,"Salgado",2.25,2017-03-18,"CEARÁ","ANA",23.15,12407,"Caririaçu","São Domingos II","Sao Domingos II",3915.78,"Açude São Domingos II","Acude Sao Domingos II","reservatorio","CE",0.2,8.9
+977042.21,"Espinharas",4.92,2017-03-01,"PARAÍBA","AESA",97.7,12408,"Teixeira","São Francisco II","Sao Francisco II",11816.32,"Açude São Francisco II","Acude Sao Francisco II","reservatorio","PB",0.06,1.3
+3888080.07,"Alto Piranhas",44.6,2017-03-17,"PARAÍBA","AESA",388.81,12409,"Sousa / Marizópolis","São Gonçalo","Sao Goncalo",39916.12,"Açude São Gonçalo","Acude Sao Goncalo","reservatorio","PB",11.56,25.9
+416464.61,"São Francisco",1.53,2015-03-18,"ALAGOAS","ANA",41.65,12410,"São José da Tapera","São José da Tapera","Sao Jose da Tapera",5749.49,"Açude São José da Tapera","Acude Sao Jose da Tapera","reservatorio","AL",0.92,60.1
+22206667.02,"Paraguaçu",357,2016-11-28,"BAHIA","ANA",2220.67,12411,"Quixabeira / Várzea da Roça / São José do Jacuípe","São José do Jacuípe","Sao Jose do Jacuipe",123925.62,"Barragem João Durval Carneiro (São José do Jacuípe)","Barragem Joao Durval Carneiro (Sao Jose do Jacuipe)","reservatorio","BA",53,14.8
+627374.45,"Banabuiú",7.67,2015-02-09,"CEARÁ","ANA",62.74,12412,"Boa Viagem","São José I","Sao Jose I",6711.49,"Açude São José I","Acude Sao Jose I","reservatorio","CE",0.12,1.6
+589659.68,"Alto Piranhas",3.05,2017-03-18,"PARAÍBA","AESA",58.97,12413,"São José de Piranhas","São José I","Sao Jose I",8084.97,"Açude São José","Acude Sao Jose","reservatorio","PB",0.36,11.8
+469939.98,"Alto Paraíba",1.31,2017-03-17,"PARAÍBA","AESA",46.99,12414,"Monteiro","São José II","Sao Jose II",6021.63,"Açude São José","Acude Sao Jose","reservatorio","PB",0.39,29.5
+1954883.66,"Banabuiú",29.14,2017-03-18,"CEARÁ","ANA",195.49,12415,"Piquet Carneiro","São José II","Sao Jose II",28937,"Açude São José II","Acude Sao Jose II","reservatorio","CE",0.01,0
+957379.46,"Pajeu",7.15,2016-08-11,"PERNAMBUCO","ANA",95.74,12416,"São José do Egito","São José II","Sao Jose II",12062.73,"Açude São José II","Acude Sao Jose II","reservatorio","PE",1.48,20.7
+916825.01,"Taperoá",0.96,2017-03-09,"PARAÍBA","AESA",91.68,12417,"São José dos Cordeiros","São José III","Sao Jose III",8844.36,"Açude São José III","Acude Sao Jose III","reservatorio","PB",0,0.4
+0,"Parnaíba-CE",7.96,2017-03-18,"CEARÁ","ANA",184.75,12418,"Ipaporanga","São José III","Sao Jose III",13812.28,"Açude São José III","Acude Sao Jose III","reservatorio","CE",0.32,4
+0,"Seridó",0.55,2017-01-26,"PARAÍBA","ANA",2.01,12419,"São José do Sabugi","São José IV","Sao Jose IV",1053.96,"Açude São José IV","Acude Sao Jose IV","reservatorio","PB",0,0
+3688228.01,"Seridó",15.79,2017-03-09,"PARAÍBA","AESA",368.82,12420,"São Mamede","São Mamede","Sao Mamede",25549.23,"Açude São Mamede","Acude Sao Mamede","reservatorio","PB",0,0
+0,"Curu",10.33,2017-03-18,"CEARÁ","ANA",70.59,12421,"Canindé","São Mateus","Sao Mateus",11062.85,"Açude São Mateus","Acude Sao Mateus","reservatorio","CE",7.81,75.6
+1751965.71,"Alto Paraíba",8.46,2017-01-26,"PARAÍBA","ANA",175.2,12422,"Prata","São  Paulo","Sao  Paulo",10448.66,"Açude São Paulo","Acude Sao Paulo","reservatorio","PB",0.03,0.4
+0,"Litoral",19.25,2017-03-18,"CEARÁ","ANA",293.58,12423,"Miraíma / Sobral","São Pedro da Timbaúba","Sao Pedro da Timbauba",14763.01,"Açude Sao Pedro da Timbaúba","Acude Sao Pedro da Timbauba","reservatorio","CE",11.71,60.8
+0,"Mamanguape",0.45,2016-12-21,"PARAÍBA","ANA",6.45,12425,"Esperança / São Sebastião de Lagoa de Roça","São  Sebastião","Sao  Sebastiao",1523.82,"Açude São Sebastião","Acude Sao Sebastiao","reservatorio","PB",0.23,51.1
+0,"Acaraú",9.84,2017-03-17,"CEARÁ","ANA",153.25,12426,"Santana do Acaraú","São  Vicente","Sao  Vicente",20855.93,"Açude São Vicente","Acude Sao Vicente","reservatorio","CE",6.1,62
+5319956.36,"Banabuiú",43,2017-03-16,"CEARÁ","ANA",532,12427,"Mombaça","Serafim Dias","Serafim Dias",64966.61,"Açude Serafim Dias","Acude Serafim Dias","reservatorio","CE",0,0
+548499.53,"Taperoá",2.12,2017-01-26,"PARAÍBA","ANA",54.85,12428,"Serra Branca","Serra Branca I","Serra Branca I",4763.82,"Açude Serra Branca I","Acude Serra Branca I","reservatorio","PB",0,0
+611693.97,"Taperoá",14.04,2017-01-26,"PARAÍBA","ANA",61.17,12429,"Serra Branca","Serra Branca II","Serra Branca II",5244.07,"Açude Serra Branca II","Acude Serra Branca II","reservatorio","PB",0.22,1.6
+1126504.81,"Piancó",11.8,2017-02-09,"PARAÍBA","AESA",112.65,12430,"Conceição","Serra Vermelha I","Serra Vermelha I",10314.08,"Açude Serra Vermelha I","Acude Serra Vermelha I","reservatorio","PB",0.13,1.1
+34036429.84,"Pajeu",311.08,2016-12-21,"PERNAMBUCO","ANA",3403.64,12431,"Serra Talhada","Serrinha II","Serrinha II",159091.16,"Açude Serrinha I","Acude Serrinha I","reservatorio","PE",14.92,4.8
+448459.29,"Pajeu",1.26,2016-03-31,"PERNAMBUCO","ANA",44.85,12432,"Brejinho","Serrinha/Serraria","Serrinha/Serraria",4359.42,"Açude Serraria","Acude Serraria","reservatorio","PE",0.22,17.6
+436781.32,"Pajeu",1.62,2012-06-04,"PERNAMBUCO","ANA",43.68,12433,"São José do Belmonte","Serrote","Serrote",6591.09,"Açude Serrote","Acude Serrote","reservatorio","PE",0,0
+297455.23,"Itapicuru",10.8,2013-11-30,"BAHIA","ANA",29.75,12434,"Serrolândia","Serrote","Serrote",4819.19,"Açude Serrote","Acude Serrote","reservatorio","BA",0,0
+778541.76,"Alto Paraíba",5.71,2017-01-26,"PARAÍBA","ANA",77.85,12435,"Monteiro","Serrote","Serrote",4786.87,"Açude Serrote","Acude Serrote","reservatorio","PB",0.05,0.8
+496161.23,"São Francisco",1.73,2015-03-18,"ALAGOAS","ANA",49.62,12436,"Major Isidoro","Sertão de Baixo","Sertao de Baixo",5358.68,"Açude Sertão de Baixo","Acude Sertao de Baixo","reservatorio","AL",0.52,30.1
+378732.62,"Mamanguape",3.02,2016-12-12,"PARAÍBA","ANA",37.87,12438,"Massaranduba","Sindô Ribeiro","Sindo Ribeiro",3588.09,"Açude Sindô Ribeiro","Acude Sindo Ribeiro","reservatorio","PB",0.99,32.8
+0,"Metropolitana",126,2017-03-18,"CEARÁ","ANA",1842.25,12440,"Pentecoste / Caucaia","Sítios Novos","Sitios Novos",70070.46,"Açude Sítios Novos","Acude Sitios Novos","reservatorio","CE",0.35,0.3
+0,"Acaraú",4.68,2017-03-16,"CEARÁ","ANA",72.12,12441,"Sobral","Sobral","Sobral",6449.94,"Açude Sobral (Cachoeira)","Acude Sobral (Cachoeira)","reservatorio","CE",0.99,21.2
+0,"Itapicuru",14.46,2016-02-19,"BAHIA","ANA",29.69,12442,"Senhor do Bonfim","Sohen","Sohen",4350.23,"Açude Sohen","Acude Sohen","reservatorio","BA",12.77,88.3
+1776891.92,"Taperoá",27.06,2017-03-08,"PARAÍBA","AESA",177.69,12443,"Soledade","Soledade","Soledade",11988.4,"Açude Soledade","Acude Soledade","reservatorio","PB",0,0
+938208.93,"Apodi/Mossoró",2.33,2016-04-06,"RIO GRANDE DO NORTE","ANA",93.82,12444,"Rodolfo Fernandes","Sossego","Sossego",5372.89,"Açude Sossego","Acude Sossego","reservatorio","RN",0,0
+0,"Curu",30.84,2017-03-18,"CEARÁ","ANA",150.14,12445,"Canindé","Sousa","Sousa",18196.55,"Açude Sousa","Acude Sousa","reservatorio","CE",2.39,7.8
+1670057.74,"Parnaíba-CE",10,2017-03-17,"CEARÁ","ANA",167.01,12446,"Tamboril","Sucesso","Sucesso",10680.18,"Açude Sucesso","Acude Sucesso","reservatorio","CE",0.08,0.8
+5101412.4,"Alto Paraíba",44.86,2017-03-17,"PARAÍBA","AESA",510.14,12447,"Sumé","Sumé","Sume",43089.62,"Açude Sumé","Acude Sume","reservatorio","PB",1.81,4
+3105090.26,"Médio Piranhas",26.42,2017-03-10,"PARAÍBA","AESA",310.51,12450,"Brejo do Cruz / Belém do Brejo do Cruz","Tapera","Tapera",14562.55,"Açude Tapera","Acude Tapera","reservatorio","PB",3.52,13.3
+4900938.68,"Taperoá",15.15,2017-03-16,"PARAÍBA","AESA",490.09,12451,"Taperoá","Taperoá II (Manoel Marcionilo)","Taperoa II (Manoel Marcionilo)",25053.63,"Açude Manoel Marcionilo (Taperoá II)","Acude Manoel Marcionilo (Taperoa II)","reservatorio","PB",5.69,37.6
+224239.19,"Ipojuca",1.35,2017-02-24,"PERNAMBUCO","ANA",22.42,12452,"Caruaru","Taquara","Taquara",2612.31,"Açude Guilherme de Azevedo (da Taquara)","Acude Guilherme de Azevedo (da Taquara)","reservatorio","PE",0,0
+0,"Acaraú",320.78,2017-03-17,"CEARÁ","ANA",1530.51,12453,"Cariré","Taquara","Taquara",71652.85,"Açude Taquara","Acude Taquara","reservatorio","CE",54.95,17.1
+521802.1,"Salgado",2.72,2017-03-18,"CEARÁ","ANA",52.18,12454,"Icó","Tatajuba","Tatajuba",8424.43,"Açude Tatajuba","Acude Tatajuba","reservatorio","CE",1.37,50.4
+774444.59,"Piancó",9,2017-03-15,"PARAÍBA","AESA",77.44,12456,"Tavares","Tavares II","Tavares II",6155.55,"Açude Tavares II","Acude Tavares II","reservatorio","PB",4.8,53.3
+0,"Curu",28.11,2017-03-17,"CEARÁ","ANA",276.84,12457,"Tejuçuoca","Tejuçuoca","Tejucuoca",33170.6,"Açude Tejuçuoca","Acude Tejucuoca","reservatorio","CE",2.61,9.3
+840389.96,"Apodi/Mossoró",3.9,2016-04-06,"RIO GRANDE DO NORTE","ANA",84.04,12458,"Francisco Dantas","Tesoura","Tesoura",6368.12,"Açude Tesoura","Acude Tesoura","reservatorio","RN",0,0
+2640692.49,"Salgado",28.78,2017-03-18,"CEARÁ","ANA",264.07,12459,"Crato","Umari","Umari",28843.37,"Açude Thomas Osterne (Umari)","Acude Thomas Osterne (Umari)","reservatorio","CE",4.95,17.2
+805280.22,"Médio Jaguaribe",3.51,2017-03-18,"CEARÁ","ANA",80.53,12460,"Solonópole","Tigre","Tigre",12801.57,"Açude Tigre","Acude Tigre","reservatorio","CE",0.16,4.6
+0,"Metropolitana",0.97,2017-03-18,"CEARÁ","ANA",11.72,12461,"Baturité","Tijuquinha","Tijuquinha",2462.88,"Açude Tijuquinha","Acude Tijuquinha","reservatorio","CE",0.88,90.7
+2015870.72,"Piancó",15.44,2017-03-15,"PARAÍBA","AESA",201.59,12462,"Juru","Timbaúba","Timbauba",17721.81,"Açude Timbaúba","Acude Timbauba","reservatorio","PB",1.4,9.1
+855179.67,"Apodi/Mossoró",7.99,2017-03-07,"RIO GRANDE DO NORTE","GOVERNO RN",85.52,12463,"Patu","Tourão","Tourao",8185.14,"Açude Tourão","Acude Tourao","reservatorio","RN",0.25,3.1
+3786575.87,"Trairi",35.23,2016-10-26,"RIO GRANDE DO NORTE","ANA",378.66,12464,"Tangará","Trairi","Trairi",29379.9,"Açude Trairi","Acude Trairi","reservatorio","RN",0,0
+1806617.8,"Banabuiú",18.19,2017-03-16,"CEARÁ","ANA",180.66,12465,"Pedra Branca","Trapiá II","Trapia II",21286.04,"Açude Trapiá II","Acude Trapia II","reservatorio","CE",0,0
+0,"Coreaú",5.51,2017-03-18,"CEARÁ","ANA",81.63,12466,"Coreaú","Trapiá","Trapia",9020.52,"Açude Trapiá","Acude Trapia","reservatorio","CE",3.7,67.2
+0,"São Francisco",0.41,2017-03-08,"ALAGOAS","ANA",0.92,12467,"Major Isidoro","Travessia","Travessia",605.65,"Açude Travessia","Acude Travessia","reservatorio","AL",0.08,18.3
+1964779.44,"Rio de Contas",23.75,2017-03-03,"BAHIA","ANA",196.48,12468,"Tremedal","Tremedal","Tremedal",15483.26,"Açude Tremedal","Acude Tremedal","reservatorio","BA",19.35,81.5
+1352336.51,"São Francisco",7.98,2016-12-30,"SERGIPE","ANA",135.23,12469,"Gracho Cardoso","Três Barras","Tres Barras",20605.11,"Açude Três Barras","Acude Tres Barras","reservatorio","SE",2.16,27
+2877716.68,"Alto Jaguaribe",16.5,2017-03-14,"CEARÁ","ANA",287.77,12470,"Tauá","Trici","Trici",20948.74,"Açude Trici","Acude Trici","reservatorio","CE",5.31,32.2
+16775823.5,"Alto Jaguaribe",301,2017-03-17,"CEARÁ","ANA",1677.58,12471,"Iguatu / Acopiara / Jucás","Trussu","Trussu",112658.38,"Açude Trussu (Roberto Costa)","Acude Trussu (Roberto Costa)","reservatorio","CE",35.74,11.9
+0,"Rio de Contas",39,2017-03-03,"BAHIA","ANA",388.48,12472,"Licínio de Almeida / Caculé","Truvisco","Truvisco",35044.45,"Açude Truvisco","Acude Truvisco","reservatorio","BA",8.4,21.5
+6236851.43,"Salgado",31.8,2017-03-18,"CEARÁ","ANA",623.69,12474,"Várzea Alegre","Ubaldinho","Ubaldinho",32977.22,"Açude Ubaldinho","Acude Ubaldinho","reservatorio","CE",8.15,25.6
+0,"Bababuiú",35.04,2017-03-18,"CEARÁ","ANA",375.35,12475,"Madalena","Umari","Umari",32999.42,"Açude Umari","Acude Umari","reservatorio","CE",19.81,56.5
+22734862.28,"Apodi/Mossoró",292.81,2017-03-08,"RIO GRANDE DO NORTE","GOVERNO RN",2273.49,12476,"Upanema / Augusto Severo","Umari","Umari",116564.61,"Barragem Umari","Barragem Umari","reservatorio","RN",46.83,16
+765917.17,"Apodi/Mossoró",3.1,2016-04-06,"RIO GRANDE DO NORTE","ANA",76.59,12477,"Umarizal","Umarizal","Umarizal",7068.41,"Açude Umarizal (Inspetoria)","Acude Umarizal (Inspetoria)","reservatorio","RN",0,0
+221139.68,"Alto Jaguaribe",2.02,2017-03-18,"CEARÁ","ANA",22.11,12480,"Assaré / Altaneira","Valério","Valerio",4689.97,"Açude Valério","Acude Valerio","reservatorio","CE",1.86,92.1
+752995.81,"Seridó",1.13,2017-03-15,"PARAÍBA","AESA",75.3,12481,"Várzea","Várzea","Varzea",6553.17,"Açude Várzea","Acude Varzea","reservatorio","PB",0.16,14
+11680638.63,"Alto Jaguaribe",51.91,2017-03-16,"CEARÁ","ANA",1168.06,12483,"Tauá","Várzea do Boi","Varzea do Boi",57125.48,"Açude Várzea do Boi","Acude Varzea do Boi","reservatorio","CE",0.62,1.2
+3108912.97,"Seridó",21.53,2017-01-26,"PARAÍBA","ANA",310.89,12485,"Picuí","Várzea Grande","Varzea Grande",26900.62,"Açude Várzea Grande","Acude Varzea Grande","reservatorio","PB",0.12,0.5
+0,"Brígida",1.13,2015-04-28,"PERNAMBUCO","ANA",8.55,12486,"Santa Cruz","Varzinha","Varzinha",1433.94,"Açude Varzinha","Acude Varzinha","reservatorio","PE",1.11,98.2
+1085996.3,"Piancó",9.09,2017-03-13,"PARAÍBA","AESA",108.6,12487,"Diamante / Ibiara","Vazante","Vazante",15491.15,"Açude Vazante","Acude Vazante","reservatorio","PB",4.87,53.5
+835666.43,"Piancó",6.04,2017-03-15,"PARAÍBA","AESA",83.57,12488,"Conceição / Diamante","Video","Video",9153.04,"Açude Video","Acude Video","reservatorio","PB",0.7,11.6
+2955405.04,"Banabuiú",20.96,2017-03-16,"CEARÁ","ANA",295.54,12489,"Boa Viagem","Vieirão","Vieirao",30011.22,"Açude Vieirão","Acude Vieirao","reservatorio","CE",0,0
+NA,"PONTAL",11.8,2017-02-24,"PERNAMBUCO","ANA",NA,12490,"Petrolina","Vira Beiju","Vira Beiju",NA,"Açude Vira Beiju","Acude Vira Beiju","reservatorio","PE",0,0
+0,"Paramirim",60.85,2017-03-03,"BAHIA","ANA",446.06,12491,"Paramirim","Zabumbão","Zabumbao",21520.73,"Barragem do Zabumbão","Barragem do Zabumbao","reservatorio","BA",25.07,41.2
+1498009.89,"Piranhas/Assu",7.92,2017-01-17,"RIO GRANDE DO NORTE","ANA",149.8,12492,"Jardim do Seridó","Zangarelhas","Zangarelhas",11864.06,"Açude Zangarelhas","Acude Zangarelhas","reservatorio","RN",0.4,5.1
+609252.16,"Capibaribe",2.75,2017-03-03,"PERNAMBUCO","ANA",60.93,12494,"Taquaritinga do Norte","Mateus Vieira","Mateus Vieira",5244.8,"Barragem do Estreito","Barragem do Estreito","reservatorio","PE",0,0
+308550.7,"Ipojuca",1.17,2017-01-26,"PERNAMBUCO","ANA",30.86,12495,"Belo Jardim","Tabocas-Piaça","Tabocas-Piaca",3881.09,"Barragem de Tabocas","Barragem de Tabocas","reservatorio","PE",0.24,20.6
+3545292.05,"Pajeu",14.52,2017-03-03,"PERNAMBUCO","ANA",354.53,12496,"São José do Belmonte","Arrodeio","Arrodeio",16608.35,"Açude Arrodeio","Acude Arrodeio","reservatorio","PE",0,0
+0,"Curu",4.24,2017-03-18,"CEARÁ","ANA",30.12,12497,"Itapagé","Itapaje","Itapaje",4251.57,"Açude Itapaje","Acude Itapaje","reservatorio","CE",1.8,42.4
+0,"Longá",250,NA,"PIAUÍ",NA,3583.57,21662,"Piracuruca","Piracuruca","Piracuruca",121375.66,"Açude Piracuruca","Acude Piracuruca","reservatorio","PI",NA,NA
