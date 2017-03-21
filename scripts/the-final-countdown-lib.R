@@ -5,8 +5,13 @@ library(forecast)
 library(zoo)
 library(imputeTS)
 
+reservoir.base.url <- "https://wwws-cloud.lsd.ufcg.edu.br:42160/api/reservatorios/"
+
 parse.json.volumes <- function(volume.data.filepath) {
     json.volumes <- fromJSON(volume.data.filepath)$volumes
+    if(length(json.volumes) == 0) {
+      stop("Não há dados disponíveis para este reservatório.")
+    }
     volume.data <- json.volumes %>%
         mutate(DataInformacao = dmy(DataInformacao),
                Fonte = as.factor(Fonte),
@@ -59,11 +64,13 @@ forecast.arima.model <- function(arima.fit,num.months=12,conf.level=90) {
     return(pred)
 }
 
-forecast.lake.volume <- function(lake.id,nmonths=12,conf=90) {
-    reservatorio.data.url <- paste0(reservoir.base.url,reservatorio.id,"/monitoramento")
-    reservatorio.data.filepath <- paste0("../data/",reservatorio.id,".json")
+forecast.lake.volume <- function(reservoir_id,nmonths=12,conf=90) {
+    reservatorio.data.url <- paste0(reservoir.base.url,reservoir_id,"/monitoramento")
+    reservatorio.data.filepath <- paste0("../data/",reservoir_id,".json")
     
-    download.file(reservatorio.data.url,destfile = reservatorio.data.filepath)
+    if (!file.exists(reservatorio.data.filepath)) {
+      download.file(reservatorio.data.url,destfile = reservatorio.data.filepath)  
+    }
     reservatorio.data.bruto <- parse.json.volumes(reservatorio.data.filepath)
     reservatorio.data <- format.volume.data(reservatorio.data.bruto,reservatorio.data.bruto)
     ts.reservatorio.data <- prepare.data.for.arima(reservatorio.data)

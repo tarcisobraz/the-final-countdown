@@ -10,35 +10,39 @@
 library(shiny)
 library(ggplot2)
 
-# Loads data about the lakes
-json_lakes <- read_json('data/info.json')
-lakes <- list()
-for (i in 1:length(json_lakes)) {
-  lakes[[unlist(json_lakes[[i]]['reservat'])]] <- as.numeric(unlist(json_lakes[[i]]['id']))
-}
+source('../scripts/the-final-countdown-lib.R')
 
-# TEMP
-load('data/prediction.rda')
-pred$x <- 10^(pred$x)
-pred$mean <- 10^(pred$mean)
+reservoir.base.url <- "https://wwws-cloud.lsd.ufcg.edu.br:42160/api/reservatorios/"
+reservoirs.info <- read.csv("../data/reservatorios_info.csv")
+
+# Loads data about the reservoirs
+reservoirs <- reservoirs.info$id
+names(reservoirs) <- reservoirs.info$reservat
+reservoirs <- as.list(reservoirs)
+
 
 shinyServer(function(input, output) {
   
   
-  output$choose_lake <- renderUI(
-    selectInput(inputId = 'lakes', label = 'Escolha o reservatório', choices = lakes)
+  output$choose_reservoir <- renderUI(
+    selectInput(inputId = 'reservoir.id', label = 'Escolha o reservatório', choices = reservoirs)
   )
   
   
   output$forecastPlot <- renderPlot({
-    autoplot(pred, PI = F, fcol = 'red') + labs(title = NULL, x = 'Tempo', y = 'Volume (%)') + theme_light() + scale_y_continuous(breaks = seq(0, max(pred$x), 5)) + theme(axis.text=element_text(size=12),
-                                                                                                                                                                           axis.title=element_text(size=14,face="bold"))
+    pred <- forecast.lake.volume(input$reservoir.id, nmonths = input$select_nmonths)
+    pred$x <- 10^(pred$x)
+    pred$mean <- 10^(pred$mean)
+    pred$lower <- 10^(pred$lower)
+    pred$upper <- 10^(pred$upper)
+    autoplot(pred, fcol = 'red') + labs(title = NULL, x = 'Tempo', y = 'Volume (%)', legend = 'Intervalo de confiança') + theme_light() + theme(axis.text=element_text(size=12), axis.title=element_text(size=14,face="bold"))
   })
   
   output$decompositionPlot <- renderPlot({
+    pred <- forecast.lake.volume(input$reservoir.id, nmonths = input$select_nmonths)
+    pred$x <- 10^(pred$x)
+    pred$mean <- 10^(pred$mean)
     predd <- decompose(pred$x)
-    autoplot(predd, labels = c('sazonal', 'tendência', 'restante'), range.bars = F) + theme_light() + labs(title = NULL, x = 'Tempo', y = 'Volume (%)') + theme(axis.text=element_text(size=12),
-                                                                                                                                                               axis.title=element_text(size=14,face="bold"),
-                                                                                                                                                               strip.text.y = element_text(size = 12))
+    autoplot(predd, labels = c('sazonal', 'tendência', 'restante'), range.bars = F) + theme_light() + labs(title = NULL, x = 'Tempo', y = 'Volume (%)') + theme(axis.text=element_text(size=12), axis.title=element_text(size=14,face="bold"), strip.text.y = element_text(size = 12))
   })
 })
