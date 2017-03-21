@@ -14,8 +14,8 @@ parse.json.volumes <- function(volume.data.filepath) {
                VolumePercentual = as.numeric(VolumePercentual))
 }
 
-format.volume.data <- function(volume.data) {
-    formatted.volume.data <- reservatorio.data.bruto %>%
+format.volume.data <- function(volume.data,raw.reservoir.data) {
+    formatted.volume.data <- raw.reservoir.data %>%
         rename(data=DataInformacao, fonte=Fonte, volume=Volume, volume.percentual=VolumePercentual) %>%
         select(-fonte) %>%
         mutate(mes = month(data),
@@ -65,7 +65,7 @@ forecast.lake.volume <- function(lake.id,nmonths=12,conf=90) {
     
     download.file(reservatorio.data.url,destfile = reservatorio.data.filepath)
     reservatorio.data.bruto <- parse.json.volumes(reservatorio.data.filepath)
-    reservatorio.data <- format.volume.data(reservatorio.data.bruto)
+    reservatorio.data <- format.volume.data(reservatorio.data.bruto,reservatorio.data.bruto)
     ts.reservatorio.data <- prepare.data.for.arima(reservatorio.data)
     fit <- fit.arima(ts.reservatorio.data)
     pred <- forecast.arima.model(fit,nmonths,conf.level = conf)    
