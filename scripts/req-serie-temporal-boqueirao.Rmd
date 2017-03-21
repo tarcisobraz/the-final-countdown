@@ -4,9 +4,10 @@ output: html_notebook
 ---
 
 ```{r data_etl}
-
+library(forecast)
 library(dplyr)
 library(ggplot2)
+library(zoo)
 
 volumes.data <- read.csv("../data/boqueirao_final.csv")
 
@@ -48,20 +49,30 @@ pacf(ts(diff(log10(data))),main="PACF Tractor Sales")
 
 ```
 ```{r arima_fit}
-library(forecast)
+
 ARIMAfit <- auto.arima(log10(data), approximation=FALSE,trace=FALSE)
 summary(ARIMAfit)
 ```
 
 ```{r}
 
-pred <- predict(ARIMAfit, n.ahead = 12)
-pred.df <- data.frame(Y=as.matrix(10^(pred$pred)),date=as.Date(as.yearmon(time(pred$pred))))
+# pred <- predict(ARIMAfit, n.ahead = 12)
+# pred.df <- data.frame(Y=as.matrix(10^(pred$pred)),date=as.Date(as.yearmon(time(pred$pred))))
+# print(pred.df)
+# plot(data,type="l",xlim=c(2016,2018),ylim=c(1,15),xlab = "Tempo",ylab = "Volume do Açude")
+# lines(10^(pred$pred),col="blue")
+# lines(10^(pred$pred+2*pred$se),col="orange")
+# lines(10^(pred$pred-2*pred$se),col="orange")
+
+pred <- forecast(ARIMAfit, h=12, level=90)
+pred.df <- data.frame(volume=(10^(pred$mean)),date=as.Date(as.yearmon(time(pred$mean))))
+history.df <- data.frame(volume=(10^(pred$x)),date=as.Date(as.yearmon(time(pred$x))))
+curve <- list(pred=pred.df,history=history.df)
 print(pred.df)
 plot(data,type="l",xlim=c(2016,2018),ylim=c(1,15),xlab = "Tempo",ylab = "Volume do Açude")
-lines(10^(pred$pred),col="blue")
-lines(10^(pred$pred+2*pred$se),col="orange")
-lines(10^(pred$pred-2*pred$se),col="orange")
+lines(10^(pred$mean),col="blue")
+lines(10^(pred$upper),col="orange")
+lines(10^(pred$lower),col="orange")
 
 ```
 
