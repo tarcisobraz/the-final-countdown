@@ -17,8 +17,8 @@ shinyUI(fluidPage(
   
   sidebarLayout(
     sidebarPanel(
-      uiOutput(outputId = "choose_lake"),
-      sliderInput(inputId = "select_nmonths", label = "Escolha quantos meses de previsão", min = 1, max = 24, value = 3, step = 1)
+      uiOutput(outputId = "choose_reservoir"),
+      sliderInput(inputId = "select_nmonths", label = "Escolha quantos meses de previsão", min = 3, max = 24, value = 3, step = 1)
     ),
     
     # Show a plot of the generated distribution
