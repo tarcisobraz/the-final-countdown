@@ -10,10 +10,10 @@
 library(shiny)
 library(ggplot2)
 
-source('../scripts/the-final-countdown-lib.R')
+source('./the-final-countdown-lib.R')
 
 reservoir.base.url <- "https://wwws-cloud.lsd.ufcg.edu.br:42160/api/reservatorios/"
-reservoirs.info <- read.csv("../data/reservatorios_info.csv")
+reservoirs.info <- read.csv("./reservatorios_info.csv")
 
 # Loads data about the reservoirs
 reservoirs <- reservoirs.info$id
